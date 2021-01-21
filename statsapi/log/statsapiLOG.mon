@@ -1,0 +1,563 @@
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 15:00:04          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 15:00:04          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:00:04          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:00:04          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:00:04          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:00:04   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 15:00:04          main.go:  69:  [INFO] dbcn : device
+2020/11/16 15:00:04          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 15:00:04      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 15:00:04      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 15:00:04      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 15:00:04      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 15:04:04          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 15:04:04          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:04:04          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:04:04          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:04:04          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:04:04   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 15:04:04          main.go:  69:  [INFO] dbcn : device
+2020/11/16 15:04:04          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 15:04:04      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 15:04:04      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 15:04:04      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 15:04:04      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 15:35:15        device.go:  35:  [INFO] resp : [{
+    "selectType" : "publicIp",
+    "selectValue" : ""
+}]
+2020/11/16 15:35:16        device.go:  87:  [ERR ] structure parsing error : [error decoding key memory: float64 can only be truncated to an integer type when truncation is enabled]
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 15:36:22          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 15:36:22          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:36:22          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:36:22          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:36:22          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:36:22   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 15:36:22          main.go:  69:  [INFO] dbcn : device
+2020/11/16 15:36:22          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 15:36:22      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 15:36:22      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 15:36:22      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 15:36:22      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 15:36:22      cls_echo.go: 371:  [FAIL] WebServer Down port (7700)
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 15:37:36          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 15:37:36          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:37:36          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:37:36          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:37:36          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:37:36   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 15:37:36          main.go:  69:  [INFO] dbcn : device
+2020/11/16 15:37:36          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 15:37:36      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 15:37:36      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 15:37:36      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 15:37:36      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 15:37:36      cls_echo.go: 371:  [FAIL] WebServer Down port (7700)
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 15:42:46          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 15:42:46          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:42:46          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:42:46          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 15:42:46          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 15:42:46   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 15:42:46          main.go:  69:  [INFO] dbcn : device
+2020/11/16 15:42:46          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 15:42:46      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 15:42:46      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 15:42:46      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 15:42:46      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 15:42:50        device.go:  35:  [INFO] resp : [{
+    "selectType" : "publicIp",
+    "selectValue" : ""
+}]
+2020/11/16 15:43:59        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 15:46:11        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 15:46:17        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 15:46:36        device.go:  35:  [INFO] resp : [{"selectType":"name","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 15:47:05        device.go:  35:  [INFO] resp : [{"selectType":"name","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 15:47:17        device.go:  35:  [INFO] resp : [{"selectType":"name","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 15:47:23        device.go:  35:  [INFO] resp : [{"selectType":"name","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 15:50:36        device.go:  35:  [INFO] resp : [{"selectType":"name","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 15:52:09        device.go:  35:  [INFO] resp : [{"selectType":"name","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:01:36        device.go:  35:  [INFO] resp : [{"selectType":"name","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:01:58        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:02:11        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:02:29        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:02:47        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:02:51        device.go:  35:  [INFO] resp : [{"selectType":"name","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:02:52        device.go:  35:  [INFO] resp : [{"selectType":"name","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:02:55        device.go:  35:  [INFO] resp : [{"selectType":"name","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:02:57        device.go:  35:  [INFO] resp : [{"selectType":"name","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 16:03:43          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 16:03:43          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:03:43          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:03:43          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:03:43          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:03:43   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 16:03:43          main.go:  69:  [INFO] dbcn : device
+2020/11/16 16:03:43          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 16:03:43      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 16:03:43      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 16:03:43      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 16:03:43      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 16:03:43      cls_echo.go: 371:  [FAIL] WebServer Down port (7700)
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 16:04:02          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 16:04:02          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:04:02          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:04:02          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:04:02          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:04:02   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 16:04:02          main.go:  69:  [INFO] dbcn : device
+2020/11/16 16:04:02          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 16:04:02      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 16:04:02      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 16:04:02      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 16:04:02      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 16:04:04        device.go:  34:  [INFO] resp : [{
+    "selectType" : "publicIp",
+    "selectValue" : ""
+}]
+2020/11/16 16:05:06        device.go:  34:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:09:58        device.go:  34:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":0,"PerPage":0}]
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 16:40:23          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 16:40:23          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:40:23          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:40:23          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:40:23          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:40:23   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 16:40:23          main.go:  69:  [INFO] dbcn : device
+2020/11/16 16:40:23          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 16:40:23      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 16:40:23      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 16:40:23      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 16:40:23      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 16:41:07        device.go:  35:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/16 16:41:07        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 16:41:07        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 16:43:10          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 16:43:10          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:43:10          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:43:10          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:43:10          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:43:10   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 16:43:10          main.go:  69:  [INFO] dbcn : device
+2020/11/16 16:43:10          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 16:43:10      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 16:43:10      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 16:43:10      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 16:43:10      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 16:43:13        device.go:  35:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/16 16:43:13        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 16:43:13        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/16 16:43:13        device.go:  56:  [INFO] selectValue : [%!d(string=/agent/)]
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 16:48:32          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 16:48:32          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:48:32          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:48:32          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 16:48:32          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 16:48:32   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 16:48:32          main.go:  69:  [INFO] dbcn : device
+2020/11/16 16:48:32          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 16:48:32      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 16:48:32      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 16:48:32      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 16:48:32      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 16:48:37        device.go:  35:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/16 16:48:37        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 16:48:37        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/16 16:48:37        device.go:  56:  [INFO] param.SelectType : [name]
+2020/11/16 16:48:37        device.go:  57:  [INFO] selectValue : [/agent/]
+2020/11/16 16:57:05        device.go:  35:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/16 16:57:05        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 16:57:05        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/16 16:57:05        device.go:  56:  [INFO] param.SelectType : [name]
+2020/11/16 16:57:05        device.go:  57:  [INFO] selectValue : [/agent/]
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 17:05:27          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 17:05:27          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 17:05:27          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 17:05:27          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 17:05:27          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:05:27   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 17:05:27          main.go:  69:  [INFO] dbcn : device
+2020/11/16 17:05:27          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 17:05:27      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 17:05:27      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 17:05:27      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 17:05:27      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 17:05:31        device.go:  35:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/16 17:05:31        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:05:31        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/16 17:05:31        device.go:  56:  [INFO] param.SelectType : [name]
+2020/11/16 17:05:31        device.go:  57:  [INFO] selectValue : [/agent/]
+2020/11/16 17:05:31        device.go:  87:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] name:/agent/]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$name] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 17:07:26        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":1}]
+2020/11/16 17:07:26        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:07:26        device.go:  56:  [INFO] param.SelectType : []
+2020/11/16 17:07:26        device.go:  57:  [INFO] selectValue : [//]
+2020/11/16 17:07:26        device.go:  87:  [INFO] pipeline : [[map[$match:map[:// kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00]]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$name] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 17:07:34        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":1}]
+2020/11/16 17:07:34        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:07:34        device.go:  56:  [INFO] param.SelectType : []
+2020/11/16 17:07:34        device.go:  57:  [INFO] selectValue : [//]
+2020/11/16 17:07:34        device.go:  87:  [INFO] pipeline : [[map[$match:map[:// kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00]]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$name] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 17:11:48        device.go:  35:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/16 17:11:48        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:11:48        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/16 17:11:48        device.go:  56:  [INFO] param.SelectType : [name]
+2020/11/16 17:11:48        device.go:  57:  [INFO] selectValue : [/agent/]
+2020/11/16 17:11:48        device.go:  87:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] name:/agent/]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$name] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 17:26:00        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":1}]
+2020/11/16 17:26:00        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:26:00        device.go:  56:  [INFO] param.SelectType : []
+2020/11/16 17:26:00        device.go:  57:  [INFO] selectValue : [//]
+2020/11/16 17:26:00        device.go:  87:  [INFO] pipeline : [[map[$match:map[:// kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00]]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$name] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 17:31:44        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":1}]
+2020/11/16 17:31:44        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:31:44        device.go:  56:  [INFO] param.SelectType : []
+2020/11/16 17:31:44        device.go:  57:  [INFO] selectValue : [//]
+2020/11/16 17:31:44        device.go:  87:  [INFO] pipeline : [[map[$match:map[:// kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00]]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$name] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 17:40:45        device.go:  35:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/16 17:40:45        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:40:45        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/16 17:40:45        device.go:  56:  [INFO] param.SelectType : [name]
+2020/11/16 17:40:45        device.go:  57:  [INFO] selectValue : [/agent/]
+2020/11/16 17:40:45        device.go:  87:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] name:/agent/]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$name] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 17:45:50        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":1}]
+2020/11/16 17:45:50        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:45:50        device.go:  56:  [INFO] param.SelectType : []
+2020/11/16 17:45:50        device.go:  57:  [INFO] selectValue : [//]
+2020/11/16 17:45:50        device.go:  87:  [INFO] pipeline : [[map[$match:map[:// kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00]]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$name] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 17:46:19        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":1}]
+2020/11/16 17:46:19        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:46:19        device.go:  56:  [INFO] param.SelectType : []
+2020/11/16 17:46:19        device.go:  57:  [INFO] selectValue : [//]
+2020/11/16 17:46:19        device.go:  87:  [INFO] pipeline : [[map[$match:map[:// kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00]]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$name] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 17:52:32          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 17:52:32          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 17:52:32          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 17:52:32          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 17:52:32          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:52:32   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 17:52:32          main.go:  69:  [INFO] dbcn : device
+2020/11/16 17:52:32          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 17:52:32      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 17:52:32      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 17:52:32      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 17:52:32      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 17:52:35        device.go:  35:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/16 17:52:35        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:52:35        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/16 17:52:35        device.go:  56:  [INFO] param.SelectType : [name]
+2020/11/16 17:52:35        device.go:  57:  [INFO] selectValue : [/agent/]
+2020/11/16 17:52:35        device.go:  87:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] publicIp:/192./]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 17:55:13          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 17:55:13          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 17:55:13          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 17:55:13          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 17:55:13          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 17:55:13   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 17:55:13          main.go:  69:  [INFO] dbcn : device
+2020/11/16 17:55:13          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 17:55:13      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 17:55:13      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 17:55:13      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 17:55:13      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 17:55:17        device.go:  35:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/16 17:55:17        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:55:17        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/16 17:55:17        device.go:  56:  [INFO] param.SelectType : [name]
+2020/11/16 17:55:17        device.go:  57:  [INFO] selectValue : [/agent/]
+2020/11/16 17:55:17        device.go:  87:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] publicIp:192.168.41.106]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 17:55:22        device.go:  35:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/16 17:55:22        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/16 17:55:22        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/16 17:55:22        device.go:  56:  [INFO] param.SelectType : [name]
+2020/11/16 17:55:22        device.go:  57:  [INFO] selectValue : [/agent/]
+2020/11/16 17:55:22        device.go:  87:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] publicIp:192.168.41.106]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 18:03:04          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 18:03:04          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 18:03:04          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 18:03:04          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 18:03:04          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:03:04   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 18:03:04          main.go:  69:  [INFO] dbcn : device
+2020/11/16 18:03:04          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 18:03:04      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 18:03:04      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 18:03:04      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 18:03:04      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 18:03:11        device.go: 123:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/16 18:03:11        device.go: 172:  [ERR ] structure parsing error : [results argument must be a pointer to a slice, but was a pointer to struct]
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/16 18:25:28          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/16 18:25:28          main.go:  41:  [INFO] dbpt : 27017
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 18:25:28          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 18:25:28          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/16 18:25:28          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/16 18:25:28   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/16 18:25:28          main.go:  69:  [INFO] dbcn : device
+2020/11/16 18:25:28          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/16 18:25:28      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/16 18:25:28      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/16 18:25:28      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/16 18:25:28      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/16 18:25:31        device.go: 123:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]

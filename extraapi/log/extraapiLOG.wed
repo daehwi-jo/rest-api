@@ -1,0 +1,967 @@
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:52:00          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/02 10:52:00          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/02 10:52:00          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/02 10:52:00          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/02 10:52:00          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/02 10:52:00          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/02 10:52:00          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/02 10:52:00          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/02 10:52:00          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/02 10:52:00          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/02 10:52:00          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/02 10:52:00          main.go:  54:  [INFO] Years            : [1]
+2020/09/02 10:52:00          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/02 10:52:00          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/02 10:52:00      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/02 10:52:00      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/02 10:52:00      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/02 10:52:00      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/02 10:52:03      freebill.go:  36:  [INFO] resp : [{"id":"innogs1101", "password":"hydradns1101"}]
+2020/09/02 10:52:03      freebill.go:  47:  [INFO] url : [http://playauto.freebill.co.kr/web/api/GETAUTHKEYBYPW/innogs1101/hydradns1101]
+2020/09/02 10:52:04      freebill.go:  69:  [INFO] respString : [Y|a03dc6d84f82df93229b280a72aa7bb2]
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 10:55:35          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/02 10:55:35          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/02 10:55:35          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/02 10:55:35          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/02 10:55:35          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/02 10:55:35          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/02 10:55:35          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/02 10:55:35          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/02 10:55:35          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/02 10:55:35          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/02 10:55:35          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/02 10:55:35          main.go:  54:  [INFO] Years            : [1]
+2020/09/02 10:55:35          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/02 10:55:35          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/02 10:55:35      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/02 10:55:35      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/02 10:55:35      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/02 10:55:35      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/02 12:19:51      freebill.go: 683:  [INFO] resp : [{"a":"490a1c4dfb0958e6bad7290fe8241286","tpf":"2","open":"n","isReceive":"2","date":"2020-09-01","taxType":"과세","typeText":"영수","item":"Pro||10000||1000||-||1||10000", "number":"739-81-01751","company":"(주)시큐리티넷","president":"김형수","addr":"서울특별시 영등포구 양산로 57-5, 606호(양평동3가)","btype":"서비스/서비스", "bclass":"소프트웨어 개발","name":"이희삼","hp":"010-1234-5678","email":"info@securitynet.co.kr", "message":"","volume":"", "issue":"", "sequence":"", "description":"test", "paymentType":"1", "uniqCode":""}]
+2020/09/02 12:19:51      freebill.go: 694:  [INFO] url : [http://playauto.freebill.co.kr/web/api/PUBLISHNOW]
+2020/09/02 12:19:51         utils.go:  29:  [INFO] euc-kr encoding : [b0fabcbc]
+2020/09/02 12:19:51         utils.go:  29:  [INFO] euc-kr encoding : [bfb5bcf6]
+2020/09/02 12:19:51         utils.go:  29:  [INFO] euc-kr encoding : [28c1d629bdc3c5a5b8aec6bcb3dd]
+2020/09/02 12:19:51         utils.go:  29:  [INFO] euc-kr encoding : [b1e8c7fcbcf6]
+2020/09/02 12:19:51         utils.go:  29:  [INFO] euc-kr encoding : [bcadbfefc6afbab0bdc320bfb5b5eec6f7b1b820bee7bbeab7ce2035372d352c20363036c8a328bee7c6f2b5bf33b0a129]
+2020/09/02 12:19:51         utils.go:  29:  [INFO] euc-kr encoding : [bcadbaf1bdba2fbcadbaf1bdba]
+2020/09/02 12:19:51         utils.go:  29:  [INFO] euc-kr encoding : [bcd2c7c1c6aebffebeee20b0b3b9df]
+2020/09/02 12:19:51         utils.go:  29:  [INFO] euc-kr encoding : [c0ccc8f1bbef]
+2020/09/02 12:19:51         utils.go:  29:  [INFO] euc-kr encoding : []
+2020/09/02 12:19:51         utils.go:  29:  [INFO] euc-kr encoding : [74657374]
+2020/09/02 12:19:51      freebill.go: 766:  [INFO] respString : [ERROR: ���̵� ã���� �����ϴ�.]
+2020/09/02 12:19:51         utils.go:  17:  [INFO] euc-kr decoding : [ERROR: 아이디를 찾을수 없습니다.]
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 12:35:34          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/02 12:35:34          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/02 12:35:34          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/02 12:35:34          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/02 12:35:34          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/02 12:35:34          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/02 12:35:34          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/02 12:35:34          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/02 12:35:34          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/02 12:35:34          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/02 12:35:34          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/02 12:35:34          main.go:  54:  [INFO] Years            : [1]
+2020/09/02 12:35:34          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/02 12:35:34          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/02 12:35:34      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/02 12:35:34      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/02 12:35:34      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/02 12:35:34      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/02 12:35:47      freebill.go: 683:  [INFO] resp : [{"a":"490a1c4dfb0958e6bad7290fe8241286","tpf":"2","open":"n","isReceive":"2","date":"2020-09-01","taxType":"과세","typeText":"영수","item":"Pro||10000||1000||-||1||10000", "number":"739-81-01751","company":"(주)시큐리티넷","president":"김형수","addr":"서울특별시 영등포구 양산로 57-5, 606호(양평동3가)","btype":"서비스/서비스", "bclass":"소프트웨어 개발","name":"이희삼","hp":"010-1234-5678","email":"info@securitynet.co.kr", "message":"","volume":"", "issue":"", "sequence":"", "description":"test", "paymentType":"1", "uniqCode":""}]
+2020/09/02 12:35:47      freebill.go: 694:  [INFO] url : [http://playauto.freebill.co.kr/web/api/PUBLISHNOW]
+2020/09/02 12:35:47         utils.go:  29:  [INFO] euc-kr encoding : [b0fabcbc]
+2020/09/02 12:35:47         utils.go:  29:  [INFO] euc-kr encoding : [bfb5bcf6]
+2020/09/02 12:35:47         utils.go:  29:  [INFO] euc-kr encoding : [28c1d629bdc3c5a5b8aec6bcb3dd]
+2020/09/02 12:35:47         utils.go:  29:  [INFO] euc-kr encoding : [b1e8c7fcbcf6]
+2020/09/02 12:35:47         utils.go:  29:  [INFO] euc-kr encoding : [bcadbfefc6afbab0bdc320bfb5b5eec6f7b1b820bee7bbeab7ce2035372d352c20363036c8a328bee7c6f2b5bf33b0a129]
+2020/09/02 12:35:47         utils.go:  29:  [INFO] euc-kr encoding : [bcadbaf1bdba2fbcadbaf1bdba]
+2020/09/02 12:35:47         utils.go:  29:  [INFO] euc-kr encoding : [bcd2c7c1c6aebffebeee20b0b3b9df]
+2020/09/02 12:35:47         utils.go:  29:  [INFO] euc-kr encoding : [c0ccc8f1bbef]
+2020/09/02 12:35:47         utils.go:  29:  [INFO] euc-kr encoding : []
+2020/09/02 12:35:47         utils.go:  29:  [INFO] euc-kr encoding : [74657374]
+2020/09/02 12:35:47         utils.go:  17:  [INFO] euc-kr decoding : [ERROR: 아이디를 찾을수 없습니다.]
+2020/09/02 12:38:42      freebill.go: 683:  [INFO] resp : [{"a":"a03dc6d84f82df93229b280a72aa7bb2","tpf":"2","open":"n","isReceive":"2","date":"2020-09-01","taxType":"과세","typeText":"영수","item":"Pro||10000||1000||-||1||10000", "number":"739-81-01751","company":"(주)시큐리티넷","president":"김형수","addr":"서울특별시 영등포구 양산로 57-5, 606호(양평동3가)","btype":"서비스/서비스", "bclass":"소프트웨어 개발","name":"이희삼","hp":"010-1234-5678","email":"info@securitynet.co.kr", "message":"테스트테스트","volume":"", "issue":"", "sequence":"", "description":"test", "paymentType":"1", "uniqCode":""}]
+2020/09/02 12:38:42      freebill.go: 694:  [INFO] url : [http://playauto.freebill.co.kr/web/api/PUBLISHNOW]
+2020/09/02 12:38:42         utils.go:  29:  [INFO] euc-kr encoding : [b0fabcbc]
+2020/09/02 12:38:42         utils.go:  29:  [INFO] euc-kr encoding : [bfb5bcf6]
+2020/09/02 12:38:42         utils.go:  29:  [INFO] euc-kr encoding : [28c1d629bdc3c5a5b8aec6bcb3dd]
+2020/09/02 12:38:42         utils.go:  29:  [INFO] euc-kr encoding : [b1e8c7fcbcf6]
+2020/09/02 12:38:42         utils.go:  29:  [INFO] euc-kr encoding : [bcadbfefc6afbab0bdc320bfb5b5eec6f7b1b820bee7bbeab7ce2035372d352c20363036c8a328bee7c6f2b5bf33b0a129]
+2020/09/02 12:38:42         utils.go:  29:  [INFO] euc-kr encoding : [bcadbaf1bdba2fbcadbaf1bdba]
+2020/09/02 12:38:42         utils.go:  29:  [INFO] euc-kr encoding : [bcd2c7c1c6aebffebeee20b0b3b9df]
+2020/09/02 12:38:42         utils.go:  29:  [INFO] euc-kr encoding : [c0ccc8f1bbef]
+2020/09/02 12:38:42         utils.go:  29:  [INFO] euc-kr encoding : [c5d7bdbac6aec5d7bdbac6ae]
+2020/09/02 12:38:42         utils.go:  29:  [INFO] euc-kr encoding : [74657374]
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/02 17:36:50          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/02 17:36:50          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/02 17:36:50          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/02 17:36:50          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/02 17:36:50          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/02 17:36:50          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/02 17:36:50          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/02 17:36:50          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/02 17:36:50          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/02 17:36:50          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/02 17:36:50          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/02 17:36:50          main.go:  54:  [INFO] Years            : [1]
+2020/09/02 17:36:50          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/02 17:36:50          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/02 17:36:50      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/02 17:36:50      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/02 17:36:50      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/02 17:36:50      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/02 17:36:55      freebill.go: 683:  [INFO] resp : [{"a":"a03dc6d84f82df93229b280a72aa7bb2","tpf":"2","open":"n","isReceive":"2","date":"2020-09-01","taxType":"과세","typeText":"영수","item":"Pro||10000||1000||-||1||10000", "number":"739-81-01751","company":"(주)시큐리티넷","president":"김형수","addr":"서울특별시 영등포구 양산로 57-5, 606호(양평동3가)","btype":"서비스/서비스", "bclass":"소프트웨어 개발","name":"이희삼","hp":"010-1234-5678","email":"info@securitynet.co.kr", "message":"테스트테스트","volume":"", "issue":"", "sequence":"", "description":"test", "paymentType":"1", "uniqCode":""}]
+2020/09/02 17:36:55      freebill.go: 694:  [INFO] url : [http://playauto.freebill.co.kr/web/api/PUBLISHNOW]
+2020/09/02 17:36:55         utils.go:  29:  [INFO] euc-kr encoding : [b0fabcbc]
+2020/09/02 17:36:55         utils.go:  29:  [INFO] euc-kr encoding : [bfb5bcf6]
+2020/09/02 17:36:55         utils.go:  29:  [INFO] euc-kr encoding : [28c1d629bdc3c5a5b8aec6bcb3dd]
+2020/09/02 17:36:55         utils.go:  29:  [INFO] euc-kr encoding : [b1e8c7fcbcf6]
+2020/09/02 17:36:55         utils.go:  29:  [INFO] euc-kr encoding : [bcadbfefc6afbab0bdc320bfb5b5eec6f7b1b820bee7bbeab7ce2035372d352c20363036c8a328bee7c6f2b5bf33b0a129]
+2020/09/02 17:36:55         utils.go:  29:  [INFO] euc-kr encoding : [bcadbaf1bdba2fbcadbaf1bdba]
+2020/09/02 17:36:55         utils.go:  29:  [INFO] euc-kr encoding : [bcd2c7c1c6aebffebeee20b0b3b9df]
+2020/09/02 17:36:55         utils.go:  29:  [INFO] euc-kr encoding : [c0ccc8f1bbef]
+2020/09/02 17:36:55         utils.go:  29:  [INFO] euc-kr encoding : [c5d7bdbac6aec5d7bdbac6ae]
+2020/09/02 17:36:55         utils.go:  29:  [INFO] euc-kr encoding : [74657374]
+2020/09/02 17:36:56      freebill.go: 766:  [INFO] respString : [
+					<form id='form' name='form' method='post' action='http://playauto.manager.freebill.co.kr/?tpf=member/publish_now' target='_self'>
+					<input type='hidden' name='udata' value='41677834'>
+					<input type='hidden' name='key' value='a03dc6d84f82df93229b280a72aa7bb2'>
+					<input type='hidden' name='result_data' value='a:1:{i:0;a:3:{s:6:"result";s:7:"SUCCESS";s:9:"list_code";s:8:"41677834";s:9:"uniq_code";N;}}'>
+					<input type='hidden' name='gtype' value='single'>
+					<input type='hidden' name='oid' value=''>
+					<input type='hidden' name='host' value='playauto.freebill.co.kr'>
+					<input type='hidden' name='return_path' value=''>
+					<input type='hidden' name='sign_type' value='module'>
+					<input type='hidden' name='param_type' value='post'>
+					<input type='hidden' name='close_win' value=''>
+					<input type='hidden' name='auto_approve' value='N'>
+					<input type='hidden' name='reseller' value='playauto'>
+					<input type='hidden' name='is_deleted_search_type' value='r'>
+					</form>
+					<script>
+						form.submit();
+					</script>
+					]
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:04:51          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/09 18:04:51          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/09 18:04:51          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/09 18:04:51          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/09 18:04:51          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/09 18:04:51          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/09 18:04:51          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/09 18:04:51          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/09 18:04:51          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/09 18:04:51          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/09 18:04:51          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/09 18:04:51          main.go:  54:  [INFO] Years            : [1]
+2020/09/09 18:04:51          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/09 18:04:51          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/09 18:04:51      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/09 18:04:51      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/09 18:04:51      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/09 18:04:51      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:18:10          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/09 18:18:10          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/09 18:18:10          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/09 18:18:10          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/09 18:18:10          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/09 18:18:10          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/09 18:18:10          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/09 18:18:10          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/09 18:18:10          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/09 18:18:10          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/09 18:18:10          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/09 18:18:10          main.go:  54:  [INFO] Years            : [1]
+2020/09/09 18:18:10          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/09 18:18:10          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/09 18:18:10        alipay.go:  24:  [ALIPAY]
+		<form id="alipaysubmit" name="alipaysubmit" action="https://mapi.alipay.com/gateway.do?_input_charset=utf-8" method="get" style='display:none;'>
+			<input type="hidden" name="_input_charset" value="utf-8">
+			<input type="hidden" name="body" value="为TEST1充值99.80元">
+			<input type="hidden" name="notify_url" value="http://220.95.208.178/commerce/json/payment/alipay/callback">
+			<input type="hidden" name="out_trade_no" value="123">
+			<input type="hidden" name="partner" value="2088621930006625">
+			<input type="hidden" name="payment_type" value="1">
+			<input type="hidden" name="return_url" value="http://localhost:51584/PaymentComplete">
+			<input type="hidden" name="seller_email" value="">
+			<input type="hidden" name="service" value="create_direct_pay_by_user">
+			<input type="hidden" name="subject" value="DNS Professional">
+			<input type="hidden" name="total_fee" value="99.80">
+			<input type="hidden" name="sign" value="c143af4ceda0eece5eab3bacb0fdd7a0">
+			<input type="hidden" name="sign_type" value="MD5">
+		</form>
+		<script>
+			document.forms['alipaysubmit'].submit();
+		</script>
+	
+2020/09/09 18:18:10      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/09 18:18:10      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/09 18:18:10      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/09 18:18:10      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 18:24:46          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/09 18:24:46          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/09 18:24:46          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/09 18:24:46          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/09 18:24:46          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/09 18:24:46          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/09 18:24:46          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/09 18:24:46          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/09 18:24:46          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/09 18:24:46          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/09 18:24:46          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/09 18:24:46          main.go:  54:  [INFO] Years            : [1]
+2020/09/09 18:24:46          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/09 18:24:46          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/09 18:24:46        alipay.go:  24:  [ALIPAY]
+		<form id="alipaysubmit" name="alipaysubmit" action="https://mapi.alipay.com/gateway.do?_input_charset=utf-8" method="get" style='display:none;'>
+			<input type="hidden" name="_input_charset" value="utf-8">
+			<input type="hidden" name="body" value="为TEST1充值87.27元">
+			<input type="hidden" name="notify_url" value="http://220.95.208.178/commerce/json/payment/alipay/callback">
+			<input type="hidden" name="out_trade_no" value="vbufOXuB35apRzmNjlZJO43JmMxC5e">
+			<input type="hidden" name="partner" value="2088621930006625">
+			<input type="hidden" name="payment_type" value="1">
+			<input type="hidden" name="return_url" value="http://localhost:51584/PaymentComplete">
+			<input type="hidden" name="seller_email" value="">
+			<input type="hidden" name="service" value="create_direct_pay_by_user">
+			<input type="hidden" name="subject" value="DNS Professional">
+			<input type="hidden" name="total_fee" value="87.27">
+			<input type="hidden" name="sign" value="4001f2ca5695492b1ddf33efb7238d5b">
+			<input type="hidden" name="sign_type" value="MD5">
+		</form>
+		<script>
+			document.forms['alipaysubmit'].submit();
+		</script>
+	
+2020/09/09 18:24:46      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/09 18:24:46      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/09 18:24:46      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/09 18:24:46      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/09 19:05:13          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/09 19:05:13          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/09 19:05:13          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/09 19:05:13          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/09 19:05:13          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/09 19:05:13          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/09 19:05:13          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/09 19:05:13          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/09 19:05:13          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/09 19:05:13          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/09 19:05:13          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/09 19:05:13          main.go:  54:  [INFO] Years            : [1]
+2020/09/09 19:05:13          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/09 19:05:13          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/09 19:05:13        alipay.go:  24:  [ALIPAY1]
+		<form id="alipaysubmit" name="alipaysubmit" action="https://mapi.alipay.com/gateway.do?_input_charset=utf-8" method="get" style='display:none;'>
+			<input type="hidden" name="_input_charset" value="utf-8">
+			<input type="hidden" name="body" value="为TEST1充值87.27元">
+			<input type="hidden" name="notify_url" value="http://220.95.208.178/commerce/json/payment/alipay/callback">
+			<input type="hidden" name="out_trade_no" value="vbufOXuB35apRzmNjlZJO43JmMxC5e">
+			<input type="hidden" name="partner" value="2088621930006625">
+			<input type="hidden" name="payment_type" value="1">
+			<input type="hidden" name="return_url" value="http://localhost:51584/PaymentComplete">
+			<input type="hidden" name="seller_email" value="">
+			<input type="hidden" name="service" value="create_direct_pay_by_user">
+			<input type="hidden" name="subject" value="DNS Professional">
+			<input type="hidden" name="total_fee" value="87.27">
+			<input type="hidden" name="sign" value="4001f2ca5695492b1ddf33efb7238d5b">
+			<input type="hidden" name="sign_type" value="MD5">
+		</form>
+		<script>
+			document.forms['alipaysubmit'].submit();
+		</script>
+	
+2020/09/09 19:05:13        alipay.go:  28:  [ALIPAY2]
+		<form id="alipaysubmit" name="alipaysubmit" action="https://mapi.alipay.com/gateway.do?_input_charset=utf-8" method="get" style='display:none;'>
+			<input type="hidden" name="_input_charset" value="utf-8">
+			<input type="hidden" name="body" value="为TEST1充值87.27元">
+			<input type="hidden" name="notify_url" value="">
+			<input type="hidden" name="out_trade_no" value="vbufOXuB35apRzmNjlZJO43JmMxC5e">
+			<input type="hidden" name="partner" value="">
+			<input type="hidden" name="payment_type" value="1">
+			<input type="hidden" name="return_url" value="">
+			<input type="hidden" name="seller_email" value="">
+			<input type="hidden" name="service" value="create_direct_pay_by_user">
+			<input type="hidden" name="subject" value="DNS Professional">
+			<input type="hidden" name="total_fee" value="87.27">
+			<input type="hidden" name="sign" value="b3cc860ac5ea35f22627e5316cdfdbd5">
+			<input type="hidden" name="sign_type" value="MD5">
+		</form>
+		<script>
+			document.forms['alipaysubmit'].submit();
+		</script>
+	
+2020/09/09 19:05:13      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/09 19:05:13      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/09 19:05:13      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/09 19:05:13      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:46:30          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/23 10:46:30          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/23 10:46:30          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/23 10:46:30          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/23 10:46:30          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/23 10:46:30          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/23 10:46:30          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/23 10:46:30          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/23 10:46:30          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/23 10:46:30          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/23 10:46:30          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/23 10:46:30          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/23 10:46:30          main.go:  61:  [INFO] Years            : [1]
+2020/09/23 10:46:30          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/23 10:46:30          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/23 10:46:30          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/23 10:46:30          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/23 10:46:30          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/23 10:46:30          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/23 10:46:30          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/23 10:46:30          main.go:  69:  [INFO] PaymentRedirect  : [https://vueui.securitynetsvc.com:15001/billing/alipay]
+2020/09/23 10:46:30          main.go:  70:  [INFO] =====================================================
+2020/09/23 10:46:30      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/23 10:46:30      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/23 10:46:30      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/23 10:46:30      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/23 10:47:21        paypal.go: 166:  [INFO] resp : [{
+  "transactions": [
+   {
+      "description": "pro domain",
+      "custom": "innogs kor",
+      "invoiceNumber": "48787589673",
+      "itemsList": {
+        "items": [
+          {
+            "name": "pro",
+            "description": "domain",
+            "quantity": 1,
+            "price": 1,
+            "tax": 0,
+            "sku": "product34"
+          }
+        ],
+        "recipientName": "innogs Kim",
+        "line1": "1 Main St",
+        "line2": "",
+        "city": "San Jose",
+        "countryCode": "US",
+        "postalCode": "95131",
+        "phone": "011862212345678",
+        "state": "CA" 
+      }
+   }
+  ],
+  "noteToPayer": "this is test payment",
+  "returnUrl": "https://extraapi.securitynetsvc.com:15001/v1/extra/paypal/payment-return",
+  "cancelUrl": "https://extraapi.securitynetsvc.com:15001/v1/extra/paypal/payment-cancel"
+}]
+2020/09/23 10:47:21        paypal.go:  32:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/23 10:47:22        paypal.go:  60:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAK9MJv1lyAmyRoL0tNbqCFjvsM35c-2cdgkf1GYtLj5u5G_fQH0wQOnMjK5EpQWQbSHSoPznqdIw8jhnLdh9OgGh7L_Xw","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":30209,"nonce":"2020-09-23T01:09:45Z27Yi3LiqI2SyGyqNyD4RNbVtecIeuZ3ZT5iABKO_Knc"}]
+2020/09/23 10:47:22        paypal.go: 186:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/23 10:47:22        paypal.go: 187:  [INFO] AccessToken : [A21AAK9MJv1lyAmyRoL0tNbqCFjvsM35c-2cdgkf1GYtLj5u5G_fQH0wQOnMjK5EpQWQbSHSoPznqdIw8jhnLdh9OgGh7L_Xw]
+2020/09/23 10:47:22        paypal.go: 188:  [INFO] TokenType   : [Bearer]
+2020/09/23 10:47:22        paypal.go: 189:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/23 10:47:22        paypal.go: 190:  [INFO] ExpiresIn   : [30209]
+2020/09/23 10:47:22        paypal.go: 191:  [INFO] Nonce       : [2020-09-23T01:09:45Z27Yi3LiqI2SyGyqNyD4RNbVtecIeuZ3ZT5iABKO_Knc]
+2020/09/23 10:47:22        paypal.go: 208:  [INFO] buff : [{"intent":"sale","payer":{"payment_method":"paypal"},"application_context":{"brand_name":"innogs kor","locale":"ko-KR","landing_page":"Login"},"transactions":[{"amount":{"total":"1","currency":"USD","details":{"subtotal":"1","tax":"0","shipping":"0","handling_fee":"0","shipping_discount":"0","insurance":"0"}},"description":"pro domain","custom":"innogs kor","invoice_number":"48787589673","item_list":{"items":[{"name":"pro","description":"domain","quantity":"1","price":"1","tax":"0","sku":"product34","currency":"USD"}],"shipping_address":{"recipient_name":"innogs Kim","line1":"1 Main St","line2":"","city":"San Jose","country_code":"US","postal_code":"95131","phone":"011862212345678","state":""}}}],"note_to_payer":"this is test payment","redirect_urls":{"return_url":"https://extraapi.securitynetsvc.com:15001/v1/extra/paypal/payment-return","cancel_url":"https://extraapi.securitynetsvc.com:15001/v1/extra/paypal/payment-cancel"}}]
+2020/09/23 10:47:22        paypal.go: 244:  [INFO] respBody : [{"error":"invalid_token","error_description":"The token passed in was not found in the system"}]
+2020/09/23 10:47:22        paypal.go: 253:  [INFO] respParam : [{   {} []   [] }]
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:48:38          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/23 10:48:38          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/23 10:48:38          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/23 10:48:38          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/23 10:48:38          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/23 10:48:38          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/23 10:48:38          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/23 10:48:38          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/23 10:48:38          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/23 10:48:38          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/23 10:48:38          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/23 10:48:38          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/23 10:48:38          main.go:  61:  [INFO] Years            : [1]
+2020/09/23 10:48:38          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/23 10:48:38          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/23 10:48:38          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/23 10:48:38          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/23 10:48:38          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/23 10:48:38          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/23 10:48:38          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/23 10:48:38          main.go:  69:  [INFO] PaymentRedirect  : [https://vueui.securitynetsvc.com:15001/billing/alipay]
+2020/09/23 10:48:38          main.go:  70:  [INFO] =====================================================
+2020/09/23 10:48:38      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/23 10:48:38      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/23 10:48:38      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/23 10:48:38      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/23 10:48:43        paypal.go: 167:  [INFO] resp : [{
+  "transactions": [
+   {
+      "description": "pro domain",
+      "custom": "innogs kor",
+      "invoiceNumber": "48787589673",
+      "itemsList": {
+        "items": [
+          {
+            "name": "pro",
+            "description": "domain",
+            "quantity": 1,
+            "price": 1,
+            "tax": 0,
+            "sku": "product34"
+          }
+        ],
+        "recipientName": "innogs Kim",
+        "line1": "1 Main St",
+        "line2": "",
+        "city": "San Jose",
+        "countryCode": "US",
+        "postalCode": "95131",
+        "phone": "011862212345678",
+        "state": "CA" 
+      }
+   }
+  ],
+  "noteToPayer": "this is test payment",
+  "returnUrl": "https://extraapi.securitynetsvc.com:15001/v1/extra/paypal/payment-return",
+  "cancelUrl": "https://extraapi.securitynetsvc.com:15001/v1/extra/paypal/payment-cancel"
+}]
+2020/09/23 10:48:43        paypal.go:  33:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/23 10:48:43        paypal.go:  61:  [INFO] access-token resp : [{"error":"invalid_client","error_description":"Client Authentication failed"}]
+2020/09/23 10:48:43        paypal.go: 180:  [ERR ] get access-token fail
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 10:51:46          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/23 10:51:46          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/23 10:51:46          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/23 10:51:46          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/23 10:51:46          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/23 10:51:46          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/23 10:51:46          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/23 10:51:46          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/23 10:51:46          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/23 10:51:46          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/23 10:51:46          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/23 10:51:46          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/23 10:51:46          main.go:  61:  [INFO] Years            : [1]
+2020/09/23 10:51:46          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/23 10:51:46          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/23 10:51:46          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/23 10:51:46          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/23 10:51:46          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/23 10:51:46          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/23 10:51:46          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/23 10:51:46          main.go:  69:  [INFO] PaymentRedirect  : [https://vueui.securitynetsvc.com:15001/billing/alipay]
+2020/09/23 10:51:46          main.go:  70:  [INFO] =====================================================
+2020/09/23 10:51:46      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/23 10:51:46      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/23 10:51:46      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/23 10:51:46      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/23 10:52:03        paypal.go: 168:  [INFO] resp : [{
+  "transactions": [
+   {
+      "description": "pro domain",
+      "custom": "innogs kor",
+      "invoiceNumber": "48787589673",
+      "itemsList": {
+        "items": [
+          {
+            "name": "pro",
+            "description": "domain",
+            "quantity": 1,
+            "price": 1,
+            "tax": 0,
+            "sku": "product34"
+          }
+        ],
+        "recipientName": "innogs Kim",
+        "line1": "1 Main St",
+        "line2": "",
+        "city": "San Jose",
+        "countryCode": "US",
+        "postalCode": "95131",
+        "phone": "011862212345678",
+        "state": "CA" 
+      }
+   }
+  ],
+  "noteToPayer": "this is test payment",
+  "returnUrl": "https://extraapi.securitynetsvc.com:15001/v1/extra/paypal/payment-return",
+  "cancelUrl": "https://extraapi.securitynetsvc.com:15001/v1/extra/paypal/payment-cancel"
+}]
+2020/09/23 10:52:03        paypal.go:  34:  [INFO] sEnc : QVVENmRSQ3ZUdjRhaG5VM3l6c0RFaEd6NURlR1ZhNnV5TWQ0d2hfYks2MldZUTFVLTdaS2c4bjJTY1RLOkVCNnNKaEM0dFoyM0tzY1B3NUpqSlJhcDIzYUtwM0RoM0VxRktjdkd3LXJqZHJLOVNfRGdJRnRqTmFIUw==
+2020/09/23 10:52:04        paypal.go:  62:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAOAYqzTmtbVhKltWMisAM4_NYPf_J7Kh9bP2Ly7WBzcHNm4H9WPu652zDYPDPGMycRAIZb7LpCiXW08TsO9famr9OpeCA","token_type":"Bearer","app_id":"APP-9RU27936NS201951J","expires_in":32400,"nonce":"2020-09-23T01:50:58ZvNlPoX_rLFC0AgtKKAoVdCI5qLr7ypueSbo_ttXpp_A"}]
+2020/09/23 10:52:04        paypal.go: 188:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/23 10:52:04        paypal.go: 189:  [INFO] AccessToken : [A21AAOAYqzTmtbVhKltWMisAM4_NYPf_J7Kh9bP2Ly7WBzcHNm4H9WPu652zDYPDPGMycRAIZb7LpCiXW08TsO9famr9OpeCA]
+2020/09/23 10:52:04        paypal.go: 190:  [INFO] TokenType   : [Bearer]
+2020/09/23 10:52:04        paypal.go: 191:  [INFO] AppId       : [APP-9RU27936NS201951J]
+2020/09/23 10:52:04        paypal.go: 192:  [INFO] ExpiresIn   : [32400]
+2020/09/23 10:52:04        paypal.go: 193:  [INFO] Nonce       : [2020-09-23T01:50:58ZvNlPoX_rLFC0AgtKKAoVdCI5qLr7ypueSbo_ttXpp_A]
+2020/09/23 10:52:04        paypal.go: 210:  [INFO] buff : [{"intent":"sale","payer":{"payment_method":"paypal"},"application_context":{"brand_name":"innogs kor","locale":"ko-KR","landing_page":"Login"},"transactions":[{"amount":{"total":"1","currency":"USD","details":{"subtotal":"1","tax":"0","shipping":"0","handling_fee":"0","shipping_discount":"0","insurance":"0"}},"description":"pro domain","custom":"innogs kor","invoice_number":"48787589673","item_list":{"items":[{"name":"pro","description":"domain","quantity":"1","price":"1","tax":"0","sku":"product34","currency":"USD"}],"shipping_address":{"recipient_name":"innogs Kim","line1":"1 Main St","line2":"","city":"San Jose","country_code":"US","postal_code":"95131","phone":"011862212345678","state":""}}}],"note_to_payer":"this is test payment","redirect_urls":{"return_url":"https://extraapi.securitynetsvc.com:15001/v1/extra/paypal/payment-return","cancel_url":"https://extraapi.securitynetsvc.com:15001/v1/extra/paypal/payment-cancel"}}]
+2020/09/23 10:52:04        paypal.go: 246:  [INFO] respBody : [{"id":"PAYID-L5VKUAY1LM245157C578181E","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"application_context":{"locale":"ko-KR","landing_page":"Login","brand_name":"innogs kor"},"transactions":[{"amount":{"total":"1.00","currency":"USD","details":{"subtotal":"1.00","tax":"0.00","shipping":"0.00","insurance":"0.00","handling_fee":"0.00","shipping_discount":"0.00"}},"description":"pro domain","custom":"innogs kor","invoice_number":"48787589673","item_list":{"items":[{"name":"pro","sku":"product34","description":"domain","price":"1.00","currency":"USD","tax":"0.00","quantity":1}],"shipping_address":{"recipient_name":"innogs Kim","line1":"1 Main St","line2":"","city":"San Jose","state":"","postal_code":"95131","country_code":"US","phone":"011862212345678"}},"related_resources":[]}],"note_to_payer":"this is test payment","create_time":"2020-09-23T01:50:59Z","links":[{"href":"https://api.paypal.com/v1/payments/payment/PAYID-L5VKUAY1LM245157C578181E","rel":"self","method":"GET"},{"href":"https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-5AB11153T3596064B","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.paypal.com/v1/payments/payment/PAYID-L5VKUAY1LM245157C578181E/execute","rel":"execute","method":"POST"}]}]
+2020/09/23 10:52:04        paypal.go: 255:  [INFO] respParam : [{PAYID-L5VKUAY1LM245157C578181E sale created {paypal} [{{1.00 USD {1.00 0.00 0.00 0.00 0.00 0.00}} pro domain innogs kor 48787589673  { %!s(bool=false) %!s(bool=false)} {[{pro product34 domain 1.00 USD 0.00 %!s(int=1)}] {innogs Kim 1 Main St  San Jose  95131 US 011862212345678} []}}] this is test payment 2020-09-23T01:50:59Z [{https://api.paypal.com/v1/payments/payment/PAYID-L5VKUAY1LM245157C578181E self GET} {https://www.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-5AB11153T3596064B approval_url REDIRECT} {https://api.paypal.com/v1/payments/payment/PAYID-L5VKUAY1LM245157C578181E/execute execute POST}] }]
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:33:37          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/23 11:33:37          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/23 11:33:37          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/23 11:33:37          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/23 11:33:37          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/23 11:33:37          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/23 11:33:37          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/23 11:33:37          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/23 11:33:37          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/23 11:33:37          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/23 11:33:37          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/23 11:33:37          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/23 11:33:37          main.go:  61:  [INFO] Years            : [1]
+2020/09/23 11:33:37          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/23 11:33:37          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/23 11:33:37          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/23 11:33:37          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/23 11:33:37          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/23 11:33:37          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/23 11:33:37          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/23 11:33:37          main.go:  69:  [INFO] PaymentRedirect  : [https://vueui.securitynetsvc.com:15001/billing/alipay]
+2020/09/23 11:33:37          main.go:  70:  [INFO] =====================================================
+2020/09/23 11:33:37      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/23 11:33:37      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/23 11:33:37      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/23 11:33:37      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/23 11:35:04        paypal.go: 354:  [INFO] resp : [{"refundId":"EC-8RR2828827667003R"}]
+2020/09/23 11:35:04        paypal.go: 367:  [INFO] surl : [https://api.paypal.com/v1/payments/refund/EC-8RR2828827667003R]
+2020/09/23 11:35:04        paypal.go: 378:  [INFO] authorization : [ ]
+2020/09/23 11:35:05        paypal.go: 402:  [INFO] respBody : [{"name":"AUTHENTICATION_FAILURE","message":"Authentication failed due to invalid authentication credentials or a missing Authorization header.","links":[{"href":"https://developer.paypal.com/docs/api/overview/#error","rel":"information_link"}]}]
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 11:35:59          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/23 11:35:59          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/23 11:35:59          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/23 11:35:59          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/23 11:35:59          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/23 11:35:59          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/23 11:35:59          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/23 11:35:59          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/23 11:35:59          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/23 11:35:59          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/23 11:35:59          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/23 11:35:59          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/23 11:35:59          main.go:  61:  [INFO] Years            : [1]
+2020/09/23 11:35:59          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/23 11:35:59          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/23 11:35:59          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/23 11:35:59          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/23 11:35:59          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/23 11:35:59          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/23 11:35:59          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/23 11:35:59          main.go:  69:  [INFO] PaymentRedirect  : [https://vueui.securitynetsvc.com:15001/billing/alipay]
+2020/09/23 11:35:59          main.go:  70:  [INFO] =====================================================
+2020/09/23 11:35:59      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/23 11:35:59      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/23 11:35:59      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/23 11:35:59      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/23 11:36:05        paypal.go: 354:  [INFO] resp : [{"refundId":"EC-8RR2828827667003R"}]
+2020/09/23 11:36:05        paypal.go: 367:  [INFO] surl : [https://api.paypal.com/v1/payments/refund/EC-8RR2828827667003R]
+2020/09/23 11:36:05        paypal.go: 382:  [INFO] authorization : [Bearer A21AAOAYqzTmtbVhKltWMisAM4_NYPf_J7Kh9bP2Ly7WBzcHNm4H9WPu652zDYPDPGMycRAIZb7LpCiXW08TsO9famr9OpeC]
+2020/09/23 11:36:05        paypal.go: 406:  [INFO] respBody : [{"error":"invalid_token","error_description":"The token passed in was not found in the system"}]
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:13:30          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/23 12:13:30          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/23 12:13:30          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/23 12:13:30          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/23 12:13:30          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/23 12:13:30          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/23 12:13:30          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/23 12:13:30          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/23 12:13:30          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/23 12:13:30          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/23 12:13:30          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/23 12:13:30          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/23 12:13:30          main.go:  61:  [INFO] Years            : [1]
+2020/09/23 12:13:30          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/23 12:13:30          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/23 12:13:30          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/23 12:13:30          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/23 12:13:30          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/23 12:13:30          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/23 12:13:30          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/23 12:13:30          main.go:  69:  [INFO] PaymentRedirect  : [https://vueui.securitynetsvc.com:15001/billing/alipay]
+2020/09/23 12:13:30          main.go:  70:  [INFO] =====================================================
+2020/09/23 12:13:30      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/23 12:13:30      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/23 12:13:30      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/23 12:13:30      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/23 12:14:42        paypal.go: 356:  [INFO] resp : [{"invoiceId":"48787589675"}]
+2020/09/23 12:14:42        paypal.go: 370:  [INFO] surl : [https://api.paypal.com/v2/invoicing/invoices/48787589675/cancel]
+2020/09/23 12:14:42        paypal.go: 385:  [INFO] authorization : [Bearer A21AAPYU6pTlhckxuT8N4aMzr8exF_QyKDwmjcy95TIUNZ1s2E2kkAOt3T-nrXVpFN63hs3fXGYFgGH6sHErNiVGeFKn0yFJw]
+2020/09/23 12:14:42        paypal.go: 409:  [INFO] respBody : [{"name":"RESOURCE_NOT_FOUND","message":"The specified resource does not exist.","debug_id":"e1ae22ee07a11","details":[],"links":[{"href":"https://developer.paypal.com/docs/api/invoicing/#errors","method":"GET"}]}]
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:16:46          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/23 12:16:46          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/23 12:16:46          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/23 12:16:46          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/23 12:16:46          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/23 12:16:46          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/23 12:16:46          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/23 12:16:46          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/23 12:16:46          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/23 12:16:46          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/23 12:16:46          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/23 12:16:46          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/23 12:16:46          main.go:  61:  [INFO] Years            : [1]
+2020/09/23 12:16:46          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/23 12:16:46          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/23 12:16:46          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/23 12:16:46          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/23 12:16:46          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/23 12:16:46          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/23 12:16:46          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/23 12:16:46          main.go:  69:  [INFO] PaymentRedirect  : [https://vueui.securitynetsvc.com:15001/billing/alipay]
+2020/09/23 12:16:46          main.go:  70:  [INFO] =====================================================
+2020/09/23 12:16:46      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/23 12:16:46      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/23 12:16:46      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/23 12:16:46      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/23 12:16:56        paypal.go: 356:  [INFO] resp : [{"invoiceId":"48787589675"}]
+2020/09/23 12:16:56        paypal.go: 370:  [INFO] surl : [https://api.paypal.com/v2/invoicing/invoices/48787589675]
+2020/09/23 12:16:56        paypal.go: 385:  [INFO] authorization : [Bearer A21AAPYU6pTlhckxuT8N4aMzr8exF_QyKDwmjcy95TIUNZ1s2E2kkAOt3T-nrXVpFN63hs3fXGYFgGH6sHErNiVGeFKn0yFJw]
+2020/09/23 12:16:57        paypal.go: 409:  [INFO] respBody : [{"name":"METHOD_NOT_SUPPORTED","message":"The server does not implement the requested HTTP method.","debug_id":"d919010d60a1e","details":[],"links":[]}]
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36   ino_encrypt.go:  64:  (1664) ipad  (0)
+2020/09/23 12:17:36          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/23 12:17:36          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/23 12:17:36          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/23 12:17:36          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/23 12:17:36          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/23 12:17:36          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/23 12:17:36          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/23 12:17:36          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/23 12:17:36          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/23 12:17:36          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/23 12:17:36          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/23 12:17:36          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/23 12:17:36          main.go:  61:  [INFO] Years            : [1]
+2020/09/23 12:17:36          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/23 12:17:36          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/23 12:17:36          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/23 12:17:36          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/23 12:17:36          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/23 12:17:36          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/23 12:17:36          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/23 12:17:36          main.go:  69:  [INFO] PaymentRedirect  : [https://vueui.securitynetsvc.com:15001/billing/alipay]
+2020/09/23 12:17:36          main.go:  70:  [INFO] =====================================================
+2020/09/23 12:17:36      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/23 12:17:36      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/23 12:17:36      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/23 12:17:36      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/23 12:17:49        paypal.go: 356:  [INFO] resp : [{"invoiceId":"48787589675"}]
+2020/09/23 12:17:49        paypal.go: 370:  [INFO] surl : [https://api.paypal.com/v2/invoicing/invoices/48787589675]
+2020/09/23 12:17:49        paypal.go: 385:  [INFO] authorization : [Bearer A21AAPYU6pTlhckxuT8N4aMzr8exF_QyKDwmjcy95TIUNZ1s2E2kkAOt3T-nrXVpFN63hs3fXGYFgGH6sHErNiVGeFKn0yFJw]
+2020/09/23 12:17:50        paypal.go: 409:  [INFO] respBody : [{"name":"RESOURCE_NOT_FOUND","message":"The specified resource does not exist.","debug_id":"2483a4cbcb7e5","details":[],"links":[{"href":"https://developer.paypal.com/docs/api/invoicing/#errors","method":"GET"}]}]

@@ -1,0 +1,2994 @@
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:36:41          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/08/31 16:36:41          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/08/31 16:36:41          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/08/31 16:36:41          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/08/31 16:36:41          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/08/31 16:36:41          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/08/31 16:36:41          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/08/31 16:36:41          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/08/31 16:36:41          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/08/31 16:36:41          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/08/31 16:36:41          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/08/31 16:36:41          main.go:  54:  [INFO] Years            : [1]
+2020/08/31 16:36:41          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/08/31 16:36:41          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/08/31 16:36:41      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/08/31 16:36:41      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/08/31 16:36:41      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/08/31 16:36:41      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/08/31 16:37:59      freebill.go: 394:  [INFO] resp : [{"a":"490a1c4dfb0958e6bad7290fe8241286", "dNumber":"", "uniq":"n"}]
+2020/08/31 16:37:59      freebill.go: 410:  [INFO] url : [http://playauto.freebill.co.kr/web/api/VIEW/490a1c4dfb0958e6bad7290fe8241286/]
+2020/08/31 16:37:59      freebill.go: 438:  [INFO] respBody : [ERROR: ¹®¼­¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù.]
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/08/31 16:43:31          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/08/31 16:43:31          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/08/31 16:43:31          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/08/31 16:43:31          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/08/31 16:43:31          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/08/31 16:43:31          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/08/31 16:43:31          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/08/31 16:43:31          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/08/31 16:43:31          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/08/31 16:43:31          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/08/31 16:43:31          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/08/31 16:43:31          main.go:  54:  [INFO] Years            : [1]
+2020/08/31 16:43:31          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/08/31 16:43:31          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/08/31 16:43:31      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/08/31 16:43:31      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/08/31 16:43:31      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/08/31 16:43:31      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/08/31 16:44:53      freebill.go: 462:  [INFO] resp : [{"a":"490a1c4dfb0958e6bad7290fe8241286", "dNumber":"", "uniq":"n", "message":"test cancel ìž…ë‹ˆë‹¤."}]
+2020/08/31 16:44:53      freebill.go: 478:  [INFO] url : [http://playauto.freebill.co.kr/web/api/CANCEL/490a1c4dfb0958e6bad7290fe8241286/]
+2020/08/31 16:44:53      freebill.go: 507:  [INFO] respBody : [ERROR: ¹®¼­¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù.]
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:16:15          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/14 10:16:15          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/14 10:16:15          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/14 10:16:15          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/14 10:16:15          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/14 10:16:15          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/14 10:16:15          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/14 10:16:15          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/14 10:16:15          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/14 10:16:15          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/14 10:16:15          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/14 10:16:15          main.go:  54:  [INFO] Years            : [1]
+2020/09/14 10:16:15          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/14 10:16:15          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/14 10:16:15      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/14 10:16:15      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/14 10:16:15      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/14 10:16:15      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/14 10:21:24        paypal.go:  86:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+]
+2020/09/14 10:21:24        paypal.go:  33:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 10:21:26        paypal.go:  61:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":32400,"nonce":"2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U"}]
+2020/09/14 10:21:26        paypal.go:  98:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 10:21:26        paypal.go:  99:  [INFO] AccessToken : [A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg]
+2020/09/14 10:21:26        paypal.go: 100:  [INFO] TokenType   : [Bearer]
+2020/09/14 10:21:26        paypal.go: 101:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 10:21:26        paypal.go: 102:  [INFO] ExpiresIn   : [32400]
+2020/09/14 10:21:26        paypal.go: 103:  [INFO] Nonce       : [2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U]
+2020/09/14 10:21:27        paypal.go: 153:  [ERR ] json.Unmarshal : [unexpected end of JSON input]
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:23:25          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/14 10:23:25          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/14 10:23:25          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/14 10:23:25          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/14 10:23:25          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/14 10:23:25          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/14 10:23:25          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/14 10:23:25          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/14 10:23:25          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/14 10:23:25          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/14 10:23:25          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/14 10:23:25          main.go:  54:  [INFO] Years            : [1]
+2020/09/14 10:23:25          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/14 10:23:25          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/14 10:23:25      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/14 10:23:25      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/14 10:23:25      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/14 10:23:25      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/14 10:23:32        paypal.go:  86:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+]
+2020/09/14 10:23:32        paypal.go:  33:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 10:23:32        paypal.go:  61:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":32274,"nonce":"2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U"}]
+2020/09/14 10:23:32        paypal.go:  98:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 10:23:32        paypal.go:  99:  [INFO] AccessToken : [A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg]
+2020/09/14 10:23:32        paypal.go: 100:  [INFO] TokenType   : [Bearer]
+2020/09/14 10:23:32        paypal.go: 101:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 10:23:32        paypal.go: 102:  [INFO] ExpiresIn   : [32274]
+2020/09/14 10:23:32        paypal.go: 103:  [INFO] Nonce       : [2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U]
+2020/09/14 10:23:32        paypal.go: 129:  [INFO] req : [&{json https://api.sandbox.paypal.com/v1/payments/payment HTTP/1.1 %!s(int=1) %!s(int=1) map[Authorization:[Bearer A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg] Content-Type:[application/json]] {"ew0KICAiaW50ZW50IjogInNhbGUiLA0KICAicGF5ZXIiOiB7DQogICAgInBheW1lbnRfbWV0aG9kIjogInBheXBhbCINCiAgfSwNCiAgInRyYW5zYWN0aW9ucyI6IFsNCiAgICB7DQogICAgICAiYW1vdW50Ijogew0KICAgICAgICAidG90YWwiOiAiMzAuMTEiLA0KICAgICAgICAiY3VycmVuY3kiOiAiVVNEIiwNCiAgICAgICAgImRldGFpbHMiOiB7DQogICAgICAgICAgInN1YnRvdGFsIjogIjMwLjAwIiwNCiAgICAgICAgICAidGF4IjogIjAuMDciLA0KICAgICAgICAgICJzaGlwcGluZyI6ICIwLjAzIiwNCiAgICAgICAgICAiaGFuZGxpbmdfZmVlIjogIjEuMDAiLA0KICAgICAgICAgICJzaGlwcGluZ19kaXNjb3VudCI6ICItMS4wMCIsDQogICAgICAgICAgImluc3VyYW5jZSI6ICIwLjAxIg0KICAgICAgICB9DQogICAgICB9LA0KICAgICAgImRlc2NyaXB0aW9uIjogIlRoZSBwYXltZW50IHRyYW5zYWN0aW9uIGRlc2NyaXB0aW9uLiIsDQogICAgICAiY3VzdG9tIjogIkVCQVlfRU1TXzkwMDQ4NjMwMDI0NDM1IiwNCiAgICAgICJpbnZvaWNlX251bWJlciI6ICI0ODc4NzU4OTY3MyIsDQogICAgICAicGF5bWVudF9vcHRpb25zIjogew0KICAgICAgICAiYWxsb3dlZF9wYXltZW50X21ldGhvZCI6ICJJTlNUQU5UX0ZVTkRJTkdfU09VUkNFIg0KICAgICAgfSwNCiAgICAgICJzb2Z0X2Rlc2NyaXB0b3IiOiAiRUNISTU3ODY3ODYiLA0KICAgICAgIml0ZW1fbGlzdCI6IHsNCiAgICAgICAgIml0ZW1zIjogWw0KICAgICAgICAgIHsNCiAgICAgICAgICAgICJuYW1lIjogImhhdCIsDQogICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAiQnJvd24gaGF0LiIsDQogICAgICAgICAgICAicXVhbnRpdHkiOiAiNSIsDQogICAgICAgICAgICAicHJpY2UiOiAiMyIsDQogICAgICAgICAgICAidGF4IjogIjAuMDEiLA0KICAgICAgICAgICAgInNrdSI6ICIxIiwNCiAgICAgICAgICAgICJjdXJyZW5jeSI6ICJVU0QiDQogICAgICAgICAgfSwNCiAgICAgICAgICB7DQogICAgICAgICAgICAibmFtZSI6ICJoYW5kYmFnIiwNCiAgICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICJCbGFjayBoYW5kYmFnLiIsDQogICAgICAgICAgICAicXVhbnRpdHkiOiAiMSIsDQogICAgICAgICAgICAicHJpY2UiOiAiMTUiLA0KICAgICAgICAgICAgInRheCI6ICIwLjAyIiwNCiAgICAgICAgICAgICJza3UiOiAicHJvZHVjdDM0IiwNCiAgICAgICAgICAgICJjdXJyZW5jeSI6ICJVU0QiDQogICAgICAgICAgfQ0KICAgICAgICBdLA0KICAgICAgICAic2hpcHBpbmdfYWRkcmVzcyI6IHsNCiAgICAgICAgICAicmVjaXBpZW50X25hbWUiOiAiQnJpYW4gUm9iaW5zb24iLA0KICAgICAgICAgICJsaW5lMSI6ICI0dGggRmxvb3IiLA0KICAgICAgICAgICJsaW5lMiI6ICJVbml0ICMzNCIsDQogICAgICAgICAgImNpdHkiOiAiU2FuIEpvc2UiLA0KICAgICAgICAgICJjb3VudHJ5X2NvZGUiOiAiVVMiLA0KICAgICAgICAgICJwb3N0YWxfY29kZSI6ICI5NTEzMSIsDQogICAgICAgICAgInBob25lIjogIjAxMTg2MjIxMjM0NTY3OCIsDQogICAgICAgICAgInN0YXRlIjogIkNBIg0KICAgICAgICB9DQogICAgICB9DQogICAgfQ0KICBdLA0KICAibm90ZV90b19wYXllciI6ICJDb250YWN0IHVzIGZvciBhbnkgcXVlc3Rpb25zIG9uIHlvdXIgb3JkZXIuIiwNCiAgInJlZGlyZWN0X3VybHMiOiB7DQogICAgInJldHVybl91cmwiOiAiaHR0cHM6Ly9leGFtcGxlLmNvbS9yZXR1cm4iLA0KICAgICJjYW5jZWxfdXJsIjogImh0dHBzOi8vZXhhbXBsZS5jb20vY2FuY2VsIg0KICB9DQp9DQo="} %!s(func() (io.ReadCloser, error)=0x6f92f0) %!s(int64=2378) [] %!s(bool=false) api.sandbox.paypal.com map[] map[] %!s(*multipart.Form=<nil>) map[]   %!s(*tls.ConnectionState=<nil>) %!s(<-chan struct {}=<nil>) %!s(*http.Response=<nil>) <nil>}]
+2020/09/14 10:23:33        paypal.go: 152:  [INFO] respBody : []
+2020/09/14 10:23:33        paypal.go: 155:  [ERR ] json.Unmarshal : [unexpected end of JSON input]
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:25:42          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/14 10:25:42          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/14 10:25:42          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/14 10:25:42          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/14 10:25:42          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/14 10:25:42          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/14 10:25:42          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/14 10:25:42          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/14 10:25:42          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/14 10:25:42          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/14 10:25:42          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/14 10:25:42          main.go:  54:  [INFO] Years            : [1]
+2020/09/14 10:25:42          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/14 10:25:42          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/14 10:25:42      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/14 10:25:42      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/14 10:25:42      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/14 10:25:42      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/14 10:25:46        paypal.go:  86:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+]
+2020/09/14 10:25:46        paypal.go:  33:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 10:25:47        paypal.go:  61:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":32139,"nonce":"2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U"}]
+2020/09/14 10:25:47        paypal.go:  98:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 10:25:47        paypal.go:  99:  [INFO] AccessToken : [A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg]
+2020/09/14 10:25:47        paypal.go: 100:  [INFO] TokenType   : [Bearer]
+2020/09/14 10:25:47        paypal.go: 101:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 10:25:47        paypal.go: 102:  [INFO] ExpiresIn   : [32139]
+2020/09/14 10:25:47        paypal.go: 103:  [INFO] Nonce       : [2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U]
+2020/09/14 10:25:47        paypal.go: 130:  [INFO] req : [&{json https://api.sandbox.paypal.com/v1/payments/payment HTTP/1.1 %!s(int=1) %!s(int=1) map[Authorization:[Bearer A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg] Content-Type:[application/json]] {{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+} %!s(func() (io.ReadCloser, error)=0x6f92f0) %!s(int64=1781) [] %!s(bool=false) api.sandbox.paypal.com map[] map[] %!s(*multipart.Form=<nil>) map[]   %!s(*tls.ConnectionState=<nil>) %!s(<-chan struct {}=<nil>) %!s(*http.Response=<nil>) <nil>}]
+2020/09/14 10:25:47        paypal.go: 153:  [INFO] respBody : []
+2020/09/14 10:25:47        paypal.go: 156:  [ERR ] json.Unmarshal : [unexpected end of JSON input]
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:27:24          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/14 10:27:24          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/14 10:27:24          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/14 10:27:24          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/14 10:27:24          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/14 10:27:24          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/14 10:27:24          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/14 10:27:24          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/14 10:27:24          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/14 10:27:24          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/14 10:27:24          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/14 10:27:24          main.go:  54:  [INFO] Years            : [1]
+2020/09/14 10:27:24          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/14 10:27:24          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/14 10:27:24      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/14 10:27:24      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/14 10:27:24      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/14 10:27:24      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/14 10:27:35        paypal.go:  86:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+]
+2020/09/14 10:27:35        paypal.go:  33:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 10:27:36        paypal.go:  61:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":32030,"nonce":"2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U"}]
+2020/09/14 10:27:36        paypal.go:  98:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 10:27:36        paypal.go:  99:  [INFO] AccessToken : [A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg]
+2020/09/14 10:27:36        paypal.go: 100:  [INFO] TokenType   : [Bearer]
+2020/09/14 10:27:36        paypal.go: 101:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 10:27:36        paypal.go: 102:  [INFO] ExpiresIn   : [32030]
+2020/09/14 10:27:36        paypal.go: 103:  [INFO] Nonce       : [2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U]
+2020/09/14 10:27:36        paypal.go: 131:  [INFO] req : [&{json http://ics.innogs.com HTTP/1.1 %!s(int=1) %!s(int=1) map[Authorization:[Bearer A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg] Content-Type:[application/json]] {{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+} %!s(func() (io.ReadCloser, error)=0x6f92f0) %!s(int64=1781) [] %!s(bool=false) ics.innogs.com map[] map[] %!s(*multipart.Form=<nil>) map[]   %!s(*tls.ConnectionState=<nil>) %!s(<-chan struct {}=<nil>) %!s(*http.Response=<nil>) <nil>}]
+2020/09/14 10:27:36        paypal.go: 154:  [INFO] respBody : [<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /
+on this server.</p>
+</body></html>
+]
+2020/09/14 10:27:36        paypal.go: 157:  [ERR ] json.Unmarshal : [invalid character '<' looking for beginning of value]
+2020/09/14 10:43:52        paypal.go:  86:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+]
+2020/09/14 10:43:52        paypal.go:  33:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 10:43:53        paypal.go:  61:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":31054,"nonce":"2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U"}]
+2020/09/14 10:43:53        paypal.go:  98:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 10:43:53        paypal.go:  99:  [INFO] AccessToken : [A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg]
+2020/09/14 10:43:53        paypal.go: 100:  [INFO] TokenType   : [Bearer]
+2020/09/14 10:43:53        paypal.go: 101:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 10:43:53        paypal.go: 102:  [INFO] ExpiresIn   : [31054]
+2020/09/14 10:43:53        paypal.go: 103:  [INFO] Nonce       : [2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U]
+2020/09/14 10:43:53        paypal.go: 131:  [INFO] req : [&{json http://ics.innogs.com HTTP/1.1 %!s(int=1) %!s(int=1) map[Authorization:[Bearer A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg] Content-Type:[application/json]] {{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+} %!s(func() (io.ReadCloser, error)=0x6f92f0) %!s(int64=1781) [] %!s(bool=false) ics.innogs.com map[] map[] %!s(*multipart.Form=<nil>) map[]   %!s(*tls.ConnectionState=<nil>) %!s(<-chan struct {}=<nil>) %!s(*http.Response=<nil>) <nil>}]
+2020/09/14 10:43:53        paypal.go: 154:  [INFO] respBody : [<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /
+on this server.</p>
+</body></html>
+]
+2020/09/14 10:43:53        paypal.go: 157:  [ERR ] json.Unmarshal : [invalid character '<' looking for beginning of value]
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:50:38          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/14 10:50:38          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/14 10:50:38          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/14 10:50:38          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/14 10:50:38          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/14 10:50:38          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/14 10:50:38          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/14 10:50:38          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/14 10:50:38          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/14 10:50:38          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/14 10:50:38          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/14 10:50:38          main.go:  54:  [INFO] Years            : [1]
+2020/09/14 10:50:38          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/14 10:50:38          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/14 10:50:38      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/14 10:50:38      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/14 10:50:38      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/14 10:50:38      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/14 10:53:12        paypal.go:  85:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+]
+2020/09/14 10:53:12        paypal.go:  32:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 10:53:13        paypal.go:  60:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":30494,"nonce":"2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U"}]
+2020/09/14 10:53:13        paypal.go:  97:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 10:53:13        paypal.go:  98:  [INFO] AccessToken : [A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg]
+2020/09/14 10:53:13        paypal.go:  99:  [INFO] TokenType   : [Bearer]
+2020/09/14 10:53:13        paypal.go: 100:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 10:53:13        paypal.go: 101:  [INFO] ExpiresIn   : [30494]
+2020/09/14 10:53:13        paypal.go: 102:  [INFO] Nonce       : [2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U]
+2020/09/14 10:53:13        paypal.go: 119:  [INFO] req : [&{json https://api.sandbox.paypal.com/v1/payments/payment HTTP/1.1 %!s(int=1) %!s(int=1) map[Authorization:[Bearer A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg] Content-Type:[application/json]] {{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+} %!s(func() (io.ReadCloser, error)=0x6f92f0) %!s(int64=1781) [] %!s(bool=false) api.sandbox.paypal.com map[] map[] %!s(*multipart.Form=<nil>) map[]   %!s(*tls.ConnectionState=<nil>) %!s(<-chan struct {}=<nil>) %!s(*http.Response=<nil>) <nil>}]
+2020/09/14 10:53:13        paypal.go: 142:  [INFO] respBody : []
+2020/09/14 10:53:13        paypal.go: 145:  [ERR ] json.Unmarshal : [unexpected end of JSON input]
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 10:55:30          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/14 10:55:30          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/14 10:55:30          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/14 10:55:30          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/14 10:55:30          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/14 10:55:30          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/14 10:55:30          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/14 10:55:30          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/14 10:55:30          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/14 10:55:30          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/14 10:55:30          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/14 10:55:30          main.go:  54:  [INFO] Years            : [1]
+2020/09/14 10:55:30          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/14 10:55:30          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/14 10:55:30      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/14 10:55:30      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/14 10:55:30      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/14 10:55:30      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/14 10:55:35        paypal.go:  85:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+]
+2020/09/14 10:55:35        paypal.go:  32:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 10:55:36        paypal.go:  60:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":30350,"nonce":"2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U"}]
+2020/09/14 10:55:36        paypal.go:  97:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 10:55:36        paypal.go:  98:  [INFO] AccessToken : [A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg]
+2020/09/14 10:55:36        paypal.go:  99:  [INFO] TokenType   : [Bearer]
+2020/09/14 10:55:36        paypal.go: 100:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 10:55:36        paypal.go: 101:  [INFO] ExpiresIn   : [30350]
+2020/09/14 10:55:36        paypal.go: 102:  [INFO] Nonce       : [2020-09-14T01:20:37ZLCoTXKVQocrL1hYKqAFZMncqmwrvCLoSL-YPKWg--4U]
+2020/09/14 10:55:36        paypal.go: 119:  [INFO] req : [&{json https://api.sandbox.paypal.com/v1/payments/payment HTTP/1.1 %!s(int=1) %!s(int=1) map[Authorization:[Bearer A21AAJF2hc9lGOPt0DqRG06lvcqeUe2TDtCjvO7kbS5cheIYV_LyDvhtMHBbi_U2MRIybrPcQWh4zvunjVqbhx8tCy6mwMVSg] Content-Type:[application/json]] {{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}
+} %!s(func() (io.ReadCloser, error)=0x6f92f0) %!s(int64=1781) [] %!s(bool=false) api.sandbox.paypal.com map[] map[] %!s(*multipart.Form=<nil>) map[]   %!s(*tls.ConnectionState=<nil>) %!s(<-chan struct {}=<nil>) %!s(*http.Response=<nil>) <nil>}]
+2020/09/14 10:55:36        paypal.go: 135:  [INFO] clientDo.Body : [{}]
+2020/09/14 10:55:36        paypal.go: 143:  [INFO] respBody : []
+2020/09/14 10:55:36        paypal.go: 146:  [ERR ] json.Unmarshal : [unexpected end of JSON input]
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:02:54          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/14 11:02:54          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/14 11:02:54          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/14 11:02:54          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/14 11:02:54          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/14 11:02:54          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/14 11:02:54          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/14 11:02:54          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/14 11:02:54          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/14 11:02:54          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/14 11:02:54          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/14 11:02:54          main.go:  54:  [INFO] Years            : [1]
+2020/09/14 11:02:54          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/14 11:02:54          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/14 11:02:54      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/14 11:02:54      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/14 11:02:54      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/14 11:02:54      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/14 11:03:58        paypal.go:  85:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}]
+2020/09/14 11:03:58        paypal.go:  32:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 11:03:59        paypal.go:  60:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":32400,"nonce":"2020-09-14T02:03:10Z8tIFbgt1vhGeIYvr_yiy5uutMBUMnFz4PlKXqvduKdY"}]
+2020/09/14 11:03:59        paypal.go:  97:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 11:03:59        paypal.go:  98:  [INFO] AccessToken : [A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ]
+2020/09/14 11:03:59        paypal.go:  99:  [INFO] TokenType   : [Bearer]
+2020/09/14 11:03:59        paypal.go: 100:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 11:03:59        paypal.go: 101:  [INFO] ExpiresIn   : [32400]
+2020/09/14 11:03:59        paypal.go: 102:  [INFO] Nonce       : [2020-09-14T02:03:10Z8tIFbgt1vhGeIYvr_yiy5uutMBUMnFz4PlKXqvduKdY]
+2020/09/14 11:03:59        paypal.go: 120:  [INFO] req : [&{json http://ics.innogs.com HTTP/1.1 %!s(int=1) %!s(int=1) map[Authorization:[Bearer A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ] Content-Type:[application/json]] {{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}} %!s(func() (io.ReadCloser, error)=0x6f92f0) %!s(int64=1779) [] %!s(bool=false) ics.innogs.com map[] map[] %!s(*multipart.Form=<nil>) map[]   %!s(*tls.ConnectionState=<nil>) %!s(<-chan struct {}=<nil>) %!s(*http.Response=<nil>) <nil>}]
+2020/09/14 11:03:59        paypal.go: 136:  [INFO] clientDo.Body : [&{%!s(*http.body=&{0xc000668440 <nil> <nil> false false {0 0} true false false <nil>}) {%!s(int32=0) %!s(uint32=0)} %!s(bool=false) %!s(*errors.errorString=&{EOF}) %!s(func(error) error=<nil>) %!s(func() error=0x6fa9b0)}]
+2020/09/14 11:03:59        paypal.go: 144:  [INFO] respBody : [<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /
+on this server.</p>
+</body></html>
+]
+2020/09/14 11:03:59        paypal.go: 147:  [ERR ] json.Unmarshal : [invalid character '<' looking for beginning of value]
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:06:45          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/14 11:06:45          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/14 11:06:45          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/14 11:06:45          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/14 11:06:45          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/14 11:06:45          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/14 11:06:45          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/14 11:06:45          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/14 11:06:45          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/14 11:06:45          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/14 11:06:45          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/14 11:06:45          main.go:  54:  [INFO] Years            : [1]
+2020/09/14 11:06:45          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/14 11:06:45          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/14 11:06:45      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/14 11:06:45      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/14 11:06:45      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/14 11:06:45      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/14 11:06:52        paypal.go:  85:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}]
+2020/09/14 11:06:52        paypal.go:  32:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 11:06:52        paypal.go:  60:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":32227,"nonce":"2020-09-14T02:03:10Z8tIFbgt1vhGeIYvr_yiy5uutMBUMnFz4PlKXqvduKdY"}]
+2020/09/14 11:06:52        paypal.go:  97:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 11:06:52        paypal.go:  98:  [INFO] AccessToken : [A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ]
+2020/09/14 11:06:52        paypal.go:  99:  [INFO] TokenType   : [Bearer]
+2020/09/14 11:06:52        paypal.go: 100:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 11:06:52        paypal.go: 101:  [INFO] ExpiresIn   : [32227]
+2020/09/14 11:06:52        paypal.go: 102:  [INFO] Nonce       : [2020-09-14T02:03:10Z8tIFbgt1vhGeIYvr_yiy5uutMBUMnFz4PlKXqvduKdY]
+2020/09/14 11:06:52        paypal.go: 119:  [INFO] req : [&{POST https://api.sandbox.paypal.com/v1/payments/payment HTTP/1.1 %!s(int=1) %!s(int=1) map[Authorization:[Bearer A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ] Content-Type:[application/json]] {{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}} %!s(func() (io.ReadCloser, error)=0x6f92f0) %!s(int64=1779) [] %!s(bool=false) api.sandbox.paypal.com map[] map[] %!s(*multipart.Form=<nil>) map[]   %!s(*tls.ConnectionState=<nil>) %!s(<-chan struct {}=<nil>) %!s(*http.Response=<nil>) <nil>}]
+2020/09/14 11:06:53        paypal.go: 146:  [ERR ] json.Unmarshal : [json: cannot unmarshal string into Go struct field .total of type float32]
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:10:18          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/14 11:10:18          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/14 11:10:18          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/14 11:10:18          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/14 11:10:18          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/14 11:10:18          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/14 11:10:18          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/14 11:10:18          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/14 11:10:18          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/14 11:10:18          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/14 11:10:18          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/14 11:10:18          main.go:  54:  [INFO] Years            : [1]
+2020/09/14 11:10:18          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/14 11:10:18          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/14 11:10:18      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/14 11:10:18      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/14 11:10:18      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/14 11:10:18      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/14 11:10:30        paypal.go:  85:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}]
+2020/09/14 11:10:30        paypal.go:  32:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 11:10:30        paypal.go:  60:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":32009,"nonce":"2020-09-14T02:03:10Z8tIFbgt1vhGeIYvr_yiy5uutMBUMnFz4PlKXqvduKdY"}]
+2020/09/14 11:10:30        paypal.go:  97:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 11:10:30        paypal.go:  98:  [INFO] AccessToken : [A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ]
+2020/09/14 11:10:30        paypal.go:  99:  [INFO] TokenType   : [Bearer]
+2020/09/14 11:10:30        paypal.go: 100:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 11:10:30        paypal.go: 101:  [INFO] ExpiresIn   : [32009]
+2020/09/14 11:10:30        paypal.go: 102:  [INFO] Nonce       : [2020-09-14T02:03:10Z8tIFbgt1vhGeIYvr_yiy5uutMBUMnFz4PlKXqvduKdY]
+2020/09/14 11:10:30        paypal.go: 119:  [INFO] req : [&{POST https://api.sandbox.paypal.com/v1/payments/payment HTTP/1.1 %!s(int=1) %!s(int=1) map[Authorization:[Bearer A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ] Content-Type:[application/json]] {{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}} %!s(func() (io.ReadCloser, error)=0x6f92f0) %!s(int64=1779) [] %!s(bool=false) api.sandbox.paypal.com map[] map[] %!s(*multipart.Form=<nil>) map[]   %!s(*tls.ConnectionState=<nil>) %!s(<-chan struct {}=<nil>) %!s(*http.Response=<nil>) <nil>}]
+2020/09/14 11:10:31        paypal.go: 143:  [INFO] respBody : [{"id":"PAYID-L5PNBZQ00T86125RD168415K","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"transactions":[{"amount":{"total":"30.11","currency":"USD","details":{"subtotal":"30.00","tax":"0.07","shipping":"0.03","insurance":"0.01","handling_fee":"1.00","shipping_discount":"-1.00"}},"description":"The payment transaction description.","custom":"EBAY_EMS_90048630024435","invoice_number":"48787589673","soft_descriptor":"ECHI5786786","payment_options":{"allowed_payment_method":"INSTANT_FUNDING_SOURCE","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"hat","sku":"1","description":"Brown hat.","price":"3.00","currency":"USD","tax":"0.01","quantity":5},{"name":"handbag","sku":"product34","description":"Black handbag.","price":"15.00","currency":"USD","tax":"0.02","quantity":1}],"shipping_address":{"recipient_name":"Brian Robinson","line1":"4th Floor","line2":"Unit #34","city":"San Jose","state":"CA","postal_code":"95131","country_code":"US","phone":"011862212345678"}},"related_resources":[]}],"note_to_payer":"Contact us for any questions on your order.","create_time":"2020-09-14T02:09:42Z","links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAYID-L5PNBZQ00T86125RD168415K","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-9GY4231250805425U","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAYID-L5PNBZQ00T86125RD168415K/execute","rel":"execute","method":"POST"}]}]
+2020/09/14 11:10:31        paypal.go: 146:  [ERR ] json.Unmarshal : [json: cannot unmarshal string into Go struct field .total of type float32]
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:40:34          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/14 11:40:34          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/14 11:40:34          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/14 11:40:34          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/14 11:40:34          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/14 11:40:34          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/14 11:40:34          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/14 11:40:34          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/14 11:40:34          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/14 11:40:34          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/14 11:40:34          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/14 11:40:34          main.go:  54:  [INFO] Years            : [1]
+2020/09/14 11:40:34          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/14 11:40:34          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/14 11:40:34      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/14 11:40:34      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/14 11:40:34      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/14 11:40:34      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/14 11:40:50        paypal.go:  85:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}]
+2020/09/14 11:40:50        paypal.go:  32:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 11:40:51        paypal.go:  60:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":30188,"nonce":"2020-09-14T02:03:10Z8tIFbgt1vhGeIYvr_yiy5uutMBUMnFz4PlKXqvduKdY"}]
+2020/09/14 11:40:51        paypal.go:  97:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 11:40:51        paypal.go:  98:  [INFO] AccessToken : [A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ]
+2020/09/14 11:40:51        paypal.go:  99:  [INFO] TokenType   : [Bearer]
+2020/09/14 11:40:51        paypal.go: 100:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 11:40:51        paypal.go: 101:  [INFO] ExpiresIn   : [30188]
+2020/09/14 11:40:51        paypal.go: 102:  [INFO] Nonce       : [2020-09-14T02:03:10Z8tIFbgt1vhGeIYvr_yiy5uutMBUMnFz4PlKXqvduKdY]
+2020/09/14 11:40:51        paypal.go: 119:  [INFO] req : [&{POST https://api.sandbox.paypal.com/v1/payments/payment HTTP/1.1 %!s(int=1) %!s(int=1) map[Authorization:[Bearer A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ] Content-Type:[application/json]] {{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}} %!s(func() (io.ReadCloser, error)=0x6f92f0) %!s(int64=1779) [] %!s(bool=false) api.sandbox.paypal.com map[] map[] %!s(*multipart.Form=<nil>) map[]   %!s(*tls.ConnectionState=<nil>) %!s(<-chan struct {}=<nil>) %!s(*http.Response=<nil>) <nil>}]
+2020/09/14 11:40:52        paypal.go: 143:  [INFO] respBody : [{"id":"PAYID-L5PNQAY7JD94449PW925951R","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"transactions":[{"amount":{"total":"30.11","currency":"USD","details":{"subtotal":"30.00","tax":"0.07","shipping":"0.03","insurance":"0.01","handling_fee":"1.00","shipping_discount":"-1.00"}},"description":"The payment transaction description.","custom":"EBAY_EMS_90048630024435","invoice_number":"48787589673","soft_descriptor":"ECHI5786786","payment_options":{"allowed_payment_method":"INSTANT_FUNDING_SOURCE","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"hat","sku":"1","description":"Brown hat.","price":"3.00","currency":"USD","tax":"0.01","quantity":5},{"name":"handbag","sku":"product34","description":"Black handbag.","price":"15.00","currency":"USD","tax":"0.02","quantity":1}],"shipping_address":{"recipient_name":"Brian Robinson","line1":"4th Floor","line2":"Unit #34","city":"San Jose","state":"CA","postal_code":"95131","country_code":"US","phone":"011862212345678"}},"related_resources":[]}],"note_to_payer":"Contact us for any questions on your order.","create_time":"2020-09-14T02:40:02Z","links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAYID-L5PNQAY7JD94449PW925951R","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-7T9802752V694952B","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAYID-L5PNQAY7JD94449PW925951R/execute","rel":"execute","method":"POST"}]}]
+2020/09/14 11:40:52        paypal.go: 146:  [ERR ] json.Unmarshal : [json: cannot unmarshal number into Go struct field RespPaypalItems.quantity of type string]
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57   ino_encrypt.go:  64:  (1535) ipad  (7)
+2020/09/14 11:41:57          main.go:  43:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/14 11:41:57          main.go:  44:  [INFO] AuthUserId       : [469962]
+2020/09/14 11:41:57          main.go:  45:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/14 11:41:57          main.go:  46:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/14 11:41:57          main.go:  47:  [INFO] CustomerId       : [14754721]
+2020/09/14 11:41:57          main.go:  48:  [INFO] RegContactId     : [91177158]
+2020/09/14 11:41:57          main.go:  49:  [INFO] AdminContactId   : [91177158]
+2020/09/14 11:41:57          main.go:  50:  [INFO] TechContactId    : [91177158]
+2020/09/14 11:41:57          main.go:  51:  [INFO] BillingContactId : [91177158]
+2020/09/14 11:41:57          main.go:  52:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/14 11:41:57          main.go:  53:  [INFO] ProtectPrivate   : [false]
+2020/09/14 11:41:57          main.go:  54:  [INFO] Years            : [1]
+2020/09/14 11:41:57          main.go:  55:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/14 11:41:57          main.go:  56:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/14 11:41:57      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/14 11:41:57      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/14 11:41:57      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/14 11:41:57      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/14 11:42:04        paypal.go:  85:  [INFO] resp : [{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}]
+2020/09/14 11:42:04        paypal.go:  32:  [INFO] sEnc : QVNqeTVSQlRpLWl6cjVuT0hHcHJoLXlmdEVCTjhtRDhSdDlnTnNaaXJ6QnZ1cmFYeTEtRHNXTDZ5N294OkVDdTVseEF6YWZLRzJtRHhGckxkZzdOOFJDOEdrX2YwdnYwOXBTNjZFWVhZdS1LVUVFcnRSLW8wUnNDOQ==
+2020/09/14 11:42:05        paypal.go:  60:  [INFO] access-token resp : [{"scope":"https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card","access_token":"A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ","token_type":"Bearer","app_id":"APP-80W284485P519543T","expires_in":30114,"nonce":"2020-09-14T02:03:10Z8tIFbgt1vhGeIYvr_yiy5uutMBUMnFz4PlKXqvduKdY"}]
+2020/09/14 11:42:05        paypal.go:  97:  [INFO] Scope       : [https://api.paypal.com/v1/payments/.* https://uri.paypal.com/services/invoicing openid https://api.paypal.com/v1/vault/credit-card/.* https://uri.paypal.com/services/applications/webhooks https://api.paypal.com/v1/vault/credit-card]
+2020/09/14 11:42:05        paypal.go:  98:  [INFO] AccessToken : [A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ]
+2020/09/14 11:42:05        paypal.go:  99:  [INFO] TokenType   : [Bearer]
+2020/09/14 11:42:05        paypal.go: 100:  [INFO] AppId       : [APP-80W284485P519543T]
+2020/09/14 11:42:05        paypal.go: 101:  [INFO] ExpiresIn   : [30114]
+2020/09/14 11:42:05        paypal.go: 102:  [INFO] Nonce       : [2020-09-14T02:03:10Z8tIFbgt1vhGeIYvr_yiy5uutMBUMnFz4PlKXqvduKdY]
+2020/09/14 11:42:05        paypal.go: 119:  [INFO] req : [&{POST https://api.sandbox.paypal.com/v1/payments/payment HTTP/1.1 %!s(int=1) %!s(int=1) map[Authorization:[Bearer A21AAJfm8helc5Wsfk_Vej4IuwbmkG8xnMiV9C_zNnSqvcr8Xy1EX8ttG29_n--g1QZm2Vlq28jdweSB-0XmrSJZlUVu1YmvQ] Content-Type:[application/json]] {{
+  "intent": "sale",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "30.11",
+        "currency": "USD",
+        "details": {
+          "subtotal": "30.00",
+          "tax": "0.07",
+          "shipping": "0.03",
+          "handling_fee": "1.00",
+          "shipping_discount": "-1.00",
+          "insurance": "0.01"
+        }
+      },
+      "description": "The payment transaction description.",
+      "custom": "EBAY_EMS_90048630024435",
+      "invoice_number": "48787589673",
+      "payment_options": {
+        "allowed_payment_method": "INSTANT_FUNDING_SOURCE"
+      },
+      "soft_descriptor": "ECHI5786786",
+      "item_list": {
+        "items": [
+          {
+            "name": "hat",
+            "description": "Brown hat.",
+            "quantity": "5",
+            "price": "3",
+            "tax": "0.01",
+            "sku": "1",
+            "currency": "USD"
+          },
+          {
+            "name": "handbag",
+            "description": "Black handbag.",
+            "quantity": "1",
+            "price": "15",
+            "tax": "0.02",
+            "sku": "product34",
+            "currency": "USD"
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "Brian Robinson",
+          "line1": "4th Floor",
+          "line2": "Unit #34",
+          "city": "San Jose",
+          "country_code": "US",
+          "postal_code": "95131",
+          "phone": "011862212345678",
+          "state": "CA"
+        }
+      }
+    }
+  ],
+  "note_to_payer": "Contact us for any questions on your order.",
+  "redirect_urls": {
+    "return_url": "https://example.com/return",
+    "cancel_url": "https://example.com/cancel"
+  }
+}} %!s(func() (io.ReadCloser, error)=0x6f92f0) %!s(int64=1779) [] %!s(bool=false) api.sandbox.paypal.com map[] map[] %!s(*multipart.Form=<nil>) map[]   %!s(*tls.ConnectionState=<nil>) %!s(<-chan struct {}=<nil>) %!s(*http.Response=<nil>) <nil>}]
+2020/09/14 11:42:06        paypal.go: 143:  [INFO] respBody : [{"id":"PAYID-L5PNQTI2SJ97899CC3279901","intent":"sale","state":"created","payer":{"payment_method":"paypal"},"transactions":[{"amount":{"total":"30.11","currency":"USD","details":{"subtotal":"30.00","tax":"0.07","shipping":"0.03","insurance":"0.01","handling_fee":"1.00","shipping_discount":"-1.00"}},"description":"The payment transaction description.","custom":"EBAY_EMS_90048630024435","invoice_number":"48787589673","soft_descriptor":"ECHI5786786","payment_options":{"allowed_payment_method":"INSTANT_FUNDING_SOURCE","recurring_flag":false,"skip_fmf":false},"item_list":{"items":[{"name":"hat","sku":"1","description":"Brown hat.","price":"3.00","currency":"USD","tax":"0.01","quantity":5},{"name":"handbag","sku":"product34","description":"Black handbag.","price":"15.00","currency":"USD","tax":"0.02","quantity":1}],"shipping_address":{"recipient_name":"Brian Robinson","line1":"4th Floor","line2":"Unit #34","city":"San Jose","state":"CA","postal_code":"95131","country_code":"US","phone":"011862212345678"}},"related_resources":[]}],"note_to_payer":"Contact us for any questions on your order.","create_time":"2020-09-14T02:41:16Z","links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAYID-L5PNQTI2SJ97899CC3279901","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-3BR99657HP351094W","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAYID-L5PNQTI2SJ97899CC3279901/execute","rel":"execute","method":"POST"}]}]
+2020/09/14 11:42:06        paypal.go: 152:  [INFO] respParam : [{PAYID-L5PNQTI2SJ97899CC3279901 sale created {paypal} [{{30.11 USD {30.00 0.07 0.03 1.00 0.01 -1.00}} The payment transaction description. EBAY_EMS_90048630024435 48787589673 ECHI5786786 {INSTANT_FUNDING_SOURCE %!s(bool=false) %!s(bool=false)} {[{hat 1 Brown hat. 3.00 USD 0.01 %!s(int=5)} {handbag product34 Black handbag. 15.00 USD 0.02 %!s(int=1)}] {Brian Robinson 4th Floor Unit #34 San Jose CA 95131 US 011862212345678} []}}] Contact us for any questions on your order. 2020-09-14T02:41:16Z [{https://api.sandbox.paypal.com/v1/payments/payment/PAYID-L5PNQTI2SJ97899CC3279901 self GET} {https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-3BR99657HP351094W approval_url REDIRECT} {https://api.sandbox.paypal.com/v1/payments/payment/PAYID-L5PNQTI2SJ97899CC3279901/execute execute POST}] }]
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 10:11:13          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 10:11:13          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 10:11:13          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 10:11:13          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 10:11:13          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 10:11:13          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 10:11:13          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 10:11:13          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 10:11:13          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 10:11:13          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 10:11:13          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 10:11:13          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 10:11:13          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 10:11:13          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 10:11:13          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 10:11:13          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 10:11:13          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 10:11:13          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 10:11:13          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 10:11:13          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 10:11:13          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 10:11:13          main.go:  70:  [INFO] =====================================================
+2020/09/21 10:11:13      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 10:11:13      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 10:11:13      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 10:11:13      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:36:56          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 12:36:56          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 12:36:56          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 12:36:56          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 12:36:56          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 12:36:56          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 12:36:56          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 12:36:56          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 12:36:56          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 12:36:56          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 12:36:56          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 12:36:56          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 12:36:56          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 12:36:56          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 12:36:56          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 12:36:56          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 12:36:56          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 12:36:56          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 12:36:56          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 12:36:56          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 12:36:56          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 12:36:56          main.go:  70:  [INFO] =====================================================
+2020/09/21 12:36:56      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 12:36:56      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 12:36:56      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 12:36:56      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 12:37:46      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:37:47      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:37:48      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:37:49      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:37:50      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:37:51      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:37:52      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:37:53      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:37:54      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:37:55      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:37:55      whoisApi.go:  32:  [INFO] end
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:39:47          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 12:39:47          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 12:39:47          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 12:39:47          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 12:39:47          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 12:39:47          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 12:39:47          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 12:39:47          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 12:39:47          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 12:39:47          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 12:39:47          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 12:39:47          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 12:39:47          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 12:39:47          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 12:39:47          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 12:39:47          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 12:39:47          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 12:39:47          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 12:39:47          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 12:39:47          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 12:39:47          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 12:39:47          main.go:  70:  [INFO] =====================================================
+2020/09/21 12:39:47      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 12:39:47      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 12:39:47      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 12:39:47      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 12:39:55      whoisApi.go: 135:  [INFO] 11111111
+2020/09/21 12:39:56      whoisApi.go: 135:  [INFO] 11111111
+2020/09/21 12:39:57      whoisApi.go: 135:  [INFO] 11111111
+2020/09/21 12:39:58      whoisApi.go: 135:  [INFO] 11111111
+2020/09/21 12:39:59      whoisApi.go: 135:  [INFO] 11111111
+2020/09/21 12:40:00      whoisApi.go: 135:  [INFO] 11111111
+2020/09/21 12:40:01      whoisApi.go: 135:  [INFO] 11111111
+2020/09/21 12:40:02      whoisApi.go: 135:  [INFO] 11111111
+2020/09/21 12:40:03      whoisApi.go: 135:  [INFO] 11111111
+2020/09/21 12:40:04      whoisApi.go: 135:  [INFO] 11111111
+2020/09/21 12:40:05      whoisApi.go: 135:  [INFO] 11111111
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 12:41:28          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 12:41:28          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 12:41:28          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 12:41:28          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 12:41:28          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 12:41:28          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 12:41:28          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 12:41:28          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 12:41:28          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 12:41:28          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 12:41:28          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 12:41:28          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 12:41:28          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 12:41:28          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 12:41:28          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 12:41:28          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 12:41:28          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 12:41:28          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 12:41:28          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 12:41:28          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 12:41:28          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 12:41:28          main.go:  70:  [INFO] =====================================================
+2020/09/21 12:41:28      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 12:41:28      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 12:41:28      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 12:41:28      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 12:41:40      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:41:41      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:41:42      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:41:43      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:41:44      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:41:45      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:41:46      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:41:47      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:41:48      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:41:49      whoisApi.go:  25:  [INFO] 123123123
+2020/09/21 12:41:49      whoisApi.go:  32:  [INFO] end
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:28:49          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 15:28:49          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 15:28:49          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 15:28:49          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 15:28:49          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 15:28:49          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 15:28:49          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 15:28:49          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 15:28:49          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 15:28:49          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 15:28:49          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 15:28:49          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 15:28:49          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 15:28:49          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 15:28:49          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 15:28:49          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 15:28:49          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 15:28:49          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 15:28:49          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 15:28:49          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 15:28:49          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 15:28:49          main.go:  70:  [INFO] =====================================================
+2020/09/21 15:28:49      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 15:28:49      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 15:28:49      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 15:28:49      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 15:29:02        alipay.go: 442:  [INFO] resp : [{"total":87.27, "out_trade_no":"IVN7WZfjGD)8x2qH4z01R4I1BdwQdo", "currency":"USD"}]
+2020/09/21 15:29:02        alipay.go: 478:  [INFO] sign : [a9348278765924ff52c4c42d9dfadff0]
+2020/09/21 15:29:03        alipay.go: 503:  [INFO] alipay respBody : [<?xml version="1.0" encoding="utf-8"?>
+<alipay><is_success>F</is_success><error>SYSTEM_EXCEPTION</error></alipay>]
+2020/09/21 15:29:03        alipay.go: 512:  [INFO] IsSuccess : [F], Error : [SYSTEM_EXCEPTION]
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:29:56          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 15:29:56          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 15:29:56          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 15:29:56          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 15:29:56          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 15:29:56          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 15:29:56          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 15:29:56          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 15:29:56          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 15:29:56          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 15:29:56          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 15:29:56          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 15:29:56          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 15:29:56          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 15:29:56          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 15:29:56          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 15:29:56          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 15:29:56          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 15:29:56          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 15:29:56          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 15:29:56          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 15:29:56          main.go:  70:  [INFO] =====================================================
+2020/09/21 15:29:56      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 15:29:56      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 15:29:56      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 15:29:56      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 15:29:59        alipay.go: 442:  [INFO] resp : [{"total":87.27, "out_trade_no":"IVN7WZfjGD)8x2qH4z01R4I1BdwQdo", "currency":"USD"}]
+2020/09/21 15:29:59        alipay.go: 480:  [INFO] sign : [47e02c4a716787a69988652cf57104d7]
+2020/09/21 15:30:00        alipay.go: 504:  [INFO] alipay respBody : [<?xml version="1.0" encoding="utf-8"?>
+<alipay><is_success>F</is_success><error>ILLEGAL_SIGN</error></alipay>]
+2020/09/21 15:30:00        alipay.go: 513:  [INFO] IsSuccess : [F], Error : [ILLEGAL_SIGN]
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 15:36:35          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 15:36:35          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 15:36:35          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 15:36:35          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 15:36:35          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 15:36:35          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 15:36:35          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 15:36:35          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 15:36:35          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 15:36:35          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 15:36:35          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 15:36:35          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 15:36:35          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 15:36:35          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 15:36:35          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 15:36:35          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 15:36:35          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 15:36:35          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 15:36:35          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 15:36:35          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 15:36:35          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 15:36:35          main.go:  70:  [INFO] =====================================================
+2020/09/21 15:36:35      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 15:36:35      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 15:36:35      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 15:36:35      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 15:37:00        alipay.go: 270:  [INFO] resp : [{"total": 87.27, "subject":"DNS Professional", "out_trade_no":"IVN7WZfjGD)8x2qH4z01R4I1BdwQdq", "currency":"USD", "sign_type":"MD5", "return_url":"https://extraapi.securitynetsvc.com:15001/v1/extra/alipay/return"}]
+2020/09/21 15:37:00        alipay.go: 317:  [INFO] after replace alipay payment : [<form id="alipaysubmit" name="alipaysubmit" action="https://mapi.alipaydev.com/gateway.do?" method="GET" style='display:none;'><br><input type="hidden" name="service" value="create_forex_trade"><br><input type="hidden" name="partner" value="2088621930006625"><br><input type="hidden" name="_input_charset" value="utf-8"><br>            <input type="hidden" name="sign_type" value="MD5"><br>            <input type="hidden" name="sign" value="4a66ff06b635d69f9ff4b026718da474"><br><input type="hidden" name="notify_url" value="https://extraapi.securitynetsvc.com:15001/v1/extra/alipay/callback"><br><input type="hidden" name="return_url" value="https://extraapi.securitynetsvc.com:15001/v1/extra/alipay/return"><br>            <input type="hidden" name="refer_url" value="https://extraalpi.securitynetsvc.com:15001/v1/extra/alipay/refer"><br><input type="hidden" name="out_trade_no" value="IVN7WZfjGD)8x2qH4z01R4I1BdwQdq"><br><input type="hidden" name="subject" value="DNS Professional"><br>            <input type="hidden" name="currency" value="USD"><br><input type="hidden" name="total_fee" value="87.27"><br><input type="hidden" name="body" value="enough Name Servers by each Domain Name and a differentiated DNS service that guarantees Domain Name security with A-Alias that compensated CNAME's security issue."><br>            <input type="hidden" name="product_code" value="NEW_OVERSEAS_SELLER"><br></form><br><script>document.forms['alipaysubmit'].submit();</script>]
+2020/09/21 15:37:35        alipay.go: 270:  [INFO] resp : [{"total": 87.27, "subject":"DNS Professional", "out_trade_no":"IVN7WZfjGD)8x2qH4z01R4I1BdwQdr", "currency":"USD", "sign_type":"MD5", "return_url":"https://extraapi.securitynetsvc.com:15001/v1/extra/alipay/return"}]
+2020/09/21 15:37:35        alipay.go: 317:  [INFO] after replace alipay payment : [<form id="alipaysubmit" name="alipaysubmit" action="https://mapi.alipaydev.com/gateway.do?" method="GET" style='display:none;'><br><input type="hidden" name="service" value="create_forex_trade"><br><input type="hidden" name="partner" value="2088621930006625"><br><input type="hidden" name="_input_charset" value="utf-8"><br>            <input type="hidden" name="sign_type" value="MD5"><br>            <input type="hidden" name="sign" value="712fdfb5e48e39b1e0ee5961d40546f6"><br><input type="hidden" name="notify_url" value="https://extraapi.securitynetsvc.com:15001/v1/extra/alipay/callback"><br><input type="hidden" name="return_url" value="https://extraapi.securitynetsvc.com:15001/v1/extra/alipay/return"><br>            <input type="hidden" name="refer_url" value="https://extraalpi.securitynetsvc.com:15001/v1/extra/alipay/refer"><br><input type="hidden" name="out_trade_no" value="IVN7WZfjGD)8x2qH4z01R4I1BdwQdr"><br><input type="hidden" name="subject" value="DNS Professional"><br>            <input type="hidden" name="currency" value="USD"><br><input type="hidden" name="total_fee" value="87.27"><br><input type="hidden" name="body" value="enough Name Servers by each Domain Name and a differentiated DNS service that guarantees Domain Name security with A-Alias that compensated CNAME's security issue."><br>            <input type="hidden" name="product_code" value="NEW_OVERSEAS_SELLER"><br></form><br><script>document.forms['alipaysubmit'].submit();</script>]
+2020/09/21 15:38:54        alipay.go: 442:  [INFO] resp : [{"total":87.27, "out_trade_no":"IVN7WZfjGD)8x2qH4z01R4I1BdwQdr", "currency":"USD"}]
+2020/09/21 15:38:55        alipay.go: 500:  [INFO] alipay respBody : [<?xml version="1.0" encoding="utf-8"?>
+<alipay><is_success>T</is_success></alipay>]
+2020/09/21 15:38:55        alipay.go: 509:  [INFO] IsSuccess : [T], Error : []
+2020/09/21 15:39:20        alipay.go: 442:  [INFO] resp : [{"total":87.27, "out_trade_no":"IVN7WZfjGD)8x2qH4z01R4I1BdwQdr", "currency":"USD"}]
+2020/09/21 15:39:20        alipay.go: 500:  [INFO] alipay respBody : [<?xml version="1.0" encoding="utf-8"?>
+<alipay><is_success>T</is_success></alipay>]
+2020/09/21 15:39:20        alipay.go: 509:  [INFO] IsSuccess : [T], Error : []
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 16:27:30          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 16:27:30          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 16:27:30          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 16:27:30          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 16:27:30          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 16:27:30          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 16:27:30          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 16:27:30          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 16:27:30          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 16:27:30          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 16:27:30          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 16:27:30          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 16:27:30          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 16:27:30          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 16:27:30          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 16:27:30          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 16:27:30          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 16:27:30          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 16:27:30          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 16:27:30          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 16:27:30          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 16:27:30          main.go:  70:  [INFO] =====================================================
+2020/09/21 16:27:30      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 16:27:30      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 16:27:30      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 16:27:30      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 16:29:00        alipay.go: 338:  [INFO] orderId  : [IVN7WZfjGD)8x2qH4z01R4I1BdwQdt]
+2020/09/21 16:29:00        alipay.go: 339:  [INFO] total    : [87.27]
+2020/09/21 16:29:00        alipay.go: 340:  [INFO] status   : [TRADE_FINISHED]
+2020/09/21 16:29:00        alipay.go: 341:  [INFO] sign     : [13840fd7788a35bb95c0bd039115f2a9]
+2020/09/21 16:29:00        alipay.go: 342:  [INFO] tradeNo  : [2020091722001306350504519291]
+2020/09/21 16:29:00        alipay.go: 343:  [INFO] currnecy : [USD]
+2020/09/21 16:29:00        alipay.go: 344:  [INFO] signType : [MD5]
+2020/09/21 16:29:00        alipay.go: 368:  [INFO] sendPaymentInfo start
+2020/09/21 16:29:00        alipay.go: 380:  [INFO] surl : [https://vueui.securitynetsvc.com:15001/billing/alipay/IVN7WZfjGD)8x2qH4z01R4I1BdwQdw]
+2020/09/21 16:29:00        alipay.go: 396:  [INFO] respBody : [<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /billing/alipay/IVN7WZfjGD)8x2qH4z01R4I1BdwQdw</pre>
+</body>
+</html>
+]
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:03:03          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 17:03:03          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 17:03:03          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 17:03:03          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 17:03:03          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 17:03:03          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 17:03:03          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 17:03:03          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 17:03:03          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 17:03:03          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 17:03:03          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 17:03:03          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 17:03:03          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 17:03:03          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 17:03:03          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 17:03:03          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 17:03:03          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 17:03:03          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 17:03:03          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 17:03:03          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 17:03:03          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 17:03:03          main.go:  70:  [INFO] =====================================================
+2020/09/21 17:03:03      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 17:03:03      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 17:03:03      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 17:03:03      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 17:03:16        alipay.go: 267:  [INFO] orderId  : [IVN7WZfjGD)8x2qH4z01R4I1BdwQdt]
+2020/09/21 17:03:16        alipay.go: 268:  [INFO] total    : [87.27]
+2020/09/21 17:03:16        alipay.go: 269:  [INFO] status   : [TRADE_FINISHED]
+2020/09/21 17:03:16        alipay.go: 270:  [INFO] sign     : [13840fd7788a35bb95c0bd039115f2a9]
+2020/09/21 17:03:16        alipay.go: 271:  [INFO] tradeNo  : [2020091722001306350504519291]
+2020/09/21 17:03:16        alipay.go: 272:  [INFO] currnecy : [USD]
+2020/09/21 17:03:16        alipay.go: 273:  [INFO] signType : [MD5]
+2020/09/21 17:03:16        alipay.go: 281:  [INFO] sendPaymentInfo start
+2020/09/21 17:03:16        alipay.go: 294:  [INFO] surl : [https://vueui.securitynetsvc.com:15001/guide/ali-pay-test]
+2020/09/21 17:03:16        alipay.go: 310:  [INFO] respBody : [<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /guide/ali-pay-test</pre>
+</body>
+</html>
+]
+2020/09/21 17:03:50        alipay.go: 267:  [INFO] orderId  : [IVN7WZfjGD)8x2qH4z01R4I1BdwQdt]
+2020/09/21 17:03:50        alipay.go: 268:  [INFO] total    : [87.27]
+2020/09/21 17:03:50        alipay.go: 269:  [INFO] status   : [TRADE_FINISHED]
+2020/09/21 17:03:50        alipay.go: 270:  [INFO] sign     : [13840fd7788a35bb95c0bd039115f2a9]
+2020/09/21 17:03:50        alipay.go: 271:  [INFO] tradeNo  : [2020091722001306350504519291]
+2020/09/21 17:03:50        alipay.go: 272:  [INFO] currnecy : [USD]
+2020/09/21 17:03:50        alipay.go: 273:  [INFO] signType : [MD5]
+2020/09/21 17:03:50        alipay.go: 281:  [INFO] sendPaymentInfo start
+2020/09/21 17:03:50        alipay.go: 294:  [INFO] surl : [https://vueui.securitynetsvc.com:15001/guide/ali-pay-test]
+2020/09/21 17:03:50        alipay.go: 310:  [INFO] respBody : [<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /guide/ali-pay-test</pre>
+</body>
+</html>
+]
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:08:16          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 17:08:16          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 17:08:16          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 17:08:16          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 17:08:16          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 17:08:16          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 17:08:16          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 17:08:16          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 17:08:16          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 17:08:16          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 17:08:16          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 17:08:16          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 17:08:16          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 17:08:16          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 17:08:16          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 17:08:16          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 17:08:16          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 17:08:16          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 17:08:16          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 17:08:16          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 17:08:16          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 17:08:16          main.go:  70:  [INFO] =====================================================
+2020/09/21 17:08:16      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 17:08:16      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 17:08:16      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 17:08:16      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 17:08:24        alipay.go: 267:  [INFO] orderId  : [IVN7WZfjGD)8x2qH4z01R4I1BdwQdt]
+2020/09/21 17:08:24        alipay.go: 268:  [INFO] total    : [87.27]
+2020/09/21 17:08:24        alipay.go: 269:  [INFO] status   : [TRADE_FINISHED]
+2020/09/21 17:08:24        alipay.go: 270:  [INFO] sign     : [13840fd7788a35bb95c0bd039115f2a9]
+2020/09/21 17:08:24        alipay.go: 271:  [INFO] tradeNo  : [2020091722001306350504519291]
+2020/09/21 17:08:24        alipay.go: 272:  [INFO] currnecy : [USD]
+2020/09/21 17:08:24        alipay.go: 273:  [INFO] signType : [MD5]
+2020/09/21 17:08:24        alipay.go: 281:  [INFO] sendPaymentInfo start
+2020/09/21 17:08:24        alipay.go: 295:  [INFO] surl : [http://192.168.30.117:8081/guide/ali-pay-test]
+2020/09/21 17:08:24        alipay.go: 311:  [INFO] respBody : [<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /guide/ali-pay-test</pre>
+</body>
+</html>
+]
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:10:19          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 17:10:19          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 17:10:19          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 17:10:19          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 17:10:19          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 17:10:19          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 17:10:19          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 17:10:19          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 17:10:19          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 17:10:19          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 17:10:19          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 17:10:19          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 17:10:19          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 17:10:19          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 17:10:19          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 17:10:19          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 17:10:19          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 17:10:19          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 17:10:19          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 17:10:19          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 17:10:19          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 17:10:19          main.go:  70:  [INFO] =====================================================
+2020/09/21 17:10:19      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 17:10:19      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 17:10:19      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 17:10:19      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 17:10:21        alipay.go: 267:  [INFO] orderId  : [IVN7WZfjGD)8x2qH4z01R4I1BdwQdt]
+2020/09/21 17:10:21        alipay.go: 268:  [INFO] total    : [87.27]
+2020/09/21 17:10:21        alipay.go: 269:  [INFO] status   : [TRADE_FINISHED]
+2020/09/21 17:10:21        alipay.go: 270:  [INFO] sign     : [13840fd7788a35bb95c0bd039115f2a9]
+2020/09/21 17:10:21        alipay.go: 271:  [INFO] tradeNo  : [2020091722001306350504519291]
+2020/09/21 17:10:21        alipay.go: 272:  [INFO] currnecy : [USD]
+2020/09/21 17:10:21        alipay.go: 273:  [INFO] signType : [MD5]
+2020/09/21 17:10:21        alipay.go: 281:  [INFO] sendPaymentInfo start
+2020/09/21 17:10:21        alipay.go: 295:  [INFO] surl : [http://192.168.30.117:8081/guide/ali-pay-test]
+2020/09/21 17:10:21        alipay.go: 311:  [INFO] respBody : [<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /guide/ali-pay-test</pre>
+</body>
+</html>
+]
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:13:25          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 17:13:25          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 17:13:25          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 17:13:25          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 17:13:25          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 17:13:25          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 17:13:25          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 17:13:25          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 17:13:25          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 17:13:25          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 17:13:25          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 17:13:25          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 17:13:25          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 17:13:25          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 17:13:25          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 17:13:25          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 17:13:25          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 17:13:25          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 17:13:25          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 17:13:25          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 17:13:25          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 17:13:25          main.go:  70:  [INFO] =====================================================
+2020/09/21 17:13:25      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 17:13:25      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 17:13:25      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 17:13:25      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 17:13:36        alipay.go: 267:  [INFO] orderId  : [IVN7WZfjGD)8x2qH4z01R4I1BdwQdt]
+2020/09/21 17:13:36        alipay.go: 268:  [INFO] total    : [87.27]
+2020/09/21 17:13:36        alipay.go: 269:  [INFO] status   : [TRADE_FINISHED]
+2020/09/21 17:13:36        alipay.go: 270:  [INFO] sign     : [13840fd7788a35bb95c0bd039115f2a9]
+2020/09/21 17:13:36        alipay.go: 271:  [INFO] tradeNo  : [2020091722001306350504519291]
+2020/09/21 17:13:36        alipay.go: 272:  [INFO] currnecy : [USD]
+2020/09/21 17:13:36        alipay.go: 273:  [INFO] signType : [MD5]
+2020/09/21 17:13:36        alipay.go: 281:  [INFO] sendPaymentInfo start
+2020/09/21 17:13:36        alipay.go: 288:  [INFO] reqBytes : [{"orderId":"IVN7WZfjGD)8x2qH4z01R4I1BdwQdt","total":87.27,"status":"TRADE_FINISHED","sign":"13840fd7788a35bb95c0bd039115f2a9","tradeNumber":"2020091722001306350504519291","currency":"USD","signType":"MD5"}]
+2020/09/21 17:13:36        alipay.go: 297:  [INFO] surl : [https://vueui.securitynetsvc.com:15001/billing/alipay/IVN7WZfjGD)8x2qH4z01R4I1BdwQdw]
+2020/09/21 17:13:36        alipay.go: 313:  [INFO] respBody : [<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /billing/alipay/IVN7WZfjGD)8x2qH4z01R4I1BdwQdw</pre>
+</body>
+</html>
+]
+2020/09/21 17:14:01        alipay.go: 267:  [INFO] orderId  : [IVN7WZfjGD)8x2qH4z01R4I1BdwQdt]
+2020/09/21 17:14:01        alipay.go: 268:  [INFO] total    : [87.27]
+2020/09/21 17:14:01        alipay.go: 269:  [INFO] status   : [TRADE_FINISHED]
+2020/09/21 17:14:01        alipay.go: 270:  [INFO] sign     : [13840fd7788a35bb95c0bd039115f2a9]
+2020/09/21 17:14:01        alipay.go: 271:  [INFO] tradeNo  : [2020091722001306350504519291]
+2020/09/21 17:14:01        alipay.go: 272:  [INFO] currnecy : [USD]
+2020/09/21 17:14:01        alipay.go: 273:  [INFO] signType : [MD5]
+2020/09/21 17:14:01        alipay.go: 281:  [INFO] sendPaymentInfo start
+2020/09/21 17:14:01        alipay.go: 288:  [INFO] reqBytes : [{"orderId":"IVN7WZfjGD)8x2qH4z01R4I1BdwQdt","total":87.27,"status":"TRADE_FINISHED","sign":"13840fd7788a35bb95c0bd039115f2a9","tradeNumber":"2020091722001306350504519291","currency":"USD","signType":"MD5"}]
+2020/09/21 17:14:01        alipay.go: 297:  [INFO] surl : [https://vueui.securitynetsvc.com:15001/billing/alipay/IVN7WZfjGD)8x2qH4z01R4I1BdwQdw]
+2020/09/21 17:14:01        alipay.go: 313:  [INFO] respBody : [<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /billing/alipay/IVN7WZfjGD)8x2qH4z01R4I1BdwQdw</pre>
+</body>
+</html>
+]
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 17:15:11          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 17:15:11          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 17:15:11          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 17:15:11          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 17:15:11          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 17:15:11          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 17:15:11          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 17:15:11          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 17:15:11          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 17:15:11          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 17:15:11          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 17:15:11          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 17:15:11          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 17:15:11          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 17:15:11          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 17:15:11          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 17:15:11          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 17:15:11          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 17:15:11          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 17:15:11          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 17:15:11          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 17:15:11          main.go:  70:  [INFO] =====================================================
+2020/09/21 17:15:11      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 17:15:11      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 17:15:11      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 17:15:11      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 17:15:21        alipay.go: 267:  [INFO] orderId  : [IVN7WZfjGD)8x2qH4z01R4I1BdwQdt]
+2020/09/21 17:15:21        alipay.go: 268:  [INFO] total    : [87.27]
+2020/09/21 17:15:21        alipay.go: 269:  [INFO] status   : [TRADE_FINISHED]
+2020/09/21 17:15:21        alipay.go: 270:  [INFO] sign     : [13840fd7788a35bb95c0bd039115f2a9]
+2020/09/21 17:15:21        alipay.go: 271:  [INFO] tradeNo  : [2020091722001306350504519291]
+2020/09/21 17:15:21        alipay.go: 272:  [INFO] currnecy : [USD]
+2020/09/21 17:15:21        alipay.go: 273:  [INFO] signType : [MD5]
+2020/09/21 17:15:21        alipay.go: 281:  [INFO] sendPaymentInfo start
+2020/09/21 17:15:21        alipay.go: 288:  [INFO] reqBytes : [{"orderId":"IVN7WZfjGD)8x2qH4z01R4I1BdwQdt","total":87.27,"status":"TRADE_FINISHED","sign":"13840fd7788a35bb95c0bd039115f2a9","tradeNumber":"2020091722001306350504519291","currency":"USD","signType":"MD5"}]
+2020/09/21 17:15:21        alipay.go: 298:  [INFO] surl : [http://192.168.30.117:8081/billing/alipay/IVN7WZfjGD)8x2qH4z01R4I1BdwQdw]
+2020/09/21 17:15:21        alipay.go: 314:  [INFO] respBody : [<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /billing/alipay/IVN7WZfjGD)8x2qH4z01R4I1BdwQdw</pre>
+</body>
+</html>
+]
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28   ino_encrypt.go:  64:  (1628) ipad  (4)
+2020/09/21 18:11:28          main.go:  49:  [INFO] ==================== whois ==========================
+2020/09/21 18:11:28          main.go:  50:  [INFO] ApiKey           : [EMgQmsnvR9ch2x3p69KqA33ESAH8OwZi]
+2020/09/21 18:11:28          main.go:  51:  [INFO] AuthUserId       : [469962]
+2020/09/21 18:11:28          main.go:  52:  [INFO] WhoisUrl         : [https://test.httpapi.com]
+2020/09/21 18:11:28          main.go:  53:  [INFO] WhoisCheckUrl    : [https://domaincheck.httpapi.com]
+2020/09/21 18:11:28          main.go:  54:  [INFO] CustomerId       : [14754721]
+2020/09/21 18:11:28          main.go:  55:  [INFO] RegContactId     : [91177158]
+2020/09/21 18:11:28          main.go:  56:  [INFO] AdminContactId   : [91177158]
+2020/09/21 18:11:28          main.go:  57:  [INFO] TechContactId    : [91177158]
+2020/09/21 18:11:28          main.go:  58:  [INFO] BillingContactId : [91177158]
+2020/09/21 18:11:28          main.go:  59:  [INFO] InvoiceOption    : [NoInvoice]
+2020/09/21 18:11:28          main.go:  60:  [INFO] ProtectPrivate   : [false]
+2020/09/21 18:11:28          main.go:  61:  [INFO] Years            : [1]
+2020/09/21 18:11:28          main.go:  62:  [INFO] Ns               : [[ns000001.hydradns.info ns000001.hydradns.biz]]
+2020/09/21 18:11:28          main.go:  63:  [INFO] =================== gabia ===========================
+2020/09/21 18:11:28          main.go:  64:  [INFO] GabiaUrl         : [https://domainpartnerapi.gabia.com]
+2020/09/21 18:11:28          main.go:  65:  [INFO] ================== alipay ===========================
+2020/09/21 18:11:28          main.go:  66:  [INFO] AliPayPartnerId  : [2088621930006625]
+2020/09/21 18:11:28          main.go:  67:  [INFO] AliPayKey        : [c1pypzgdv8ln51iytyehtnv6t8esgk4c]
+2020/09/21 18:11:28          main.go:  68:  [INFO] AliOperUrl       : [https://mapi.alipaydev.com/gateway.do]
+2020/09/21 18:11:28          main.go:  69:  [INFO] PaymentRedirect  : [https://nas.securitynetsvc.com]
+2020/09/21 18:11:28          main.go:  70:  [INFO] =====================================================
+2020/09/21 18:11:28      cls_echo.go: 538:  [INFO] new domain(localhost) port(8989) protocol(HTTP)
+2020/09/21 18:11:28      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/09/21 18:11:28      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/09/21 18:11:28      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(8989) start
+2020/09/21 18:11:47        alipay.go: 267:  [INFO] orderId  : [IVN7WZfjGD)8x2qH4z01R4I1BdwQdt]
+2020/09/21 18:11:47        alipay.go: 268:  [INFO] total    : [87.27]
+2020/09/21 18:11:47        alipay.go: 269:  [INFO] status   : [TRADE_FINISHED]
+2020/09/21 18:11:47        alipay.go: 270:  [INFO] sign     : [13840fd7788a35bb95c0bd039115f2a9]
+2020/09/21 18:11:47        alipay.go: 271:  [INFO] tradeNo  : [2020091722001306350504519291]
+2020/09/21 18:11:47        alipay.go: 272:  [INFO] currnecy : [USD]
+2020/09/21 18:11:47        alipay.go: 273:  [INFO] signType : [MD5]
+2020/09/21 18:11:47        alipay.go: 281:  [INFO] sendPaymentInfo start
+2020/09/21 18:11:47        alipay.go: 288:  [INFO] reqBytes : [{"orderId":"IVN7WZfjGD)8x2qH4z01R4I1BdwQdt","total":87.27,"status":"TRADE_FINISHED","sign":"13840fd7788a35bb95c0bd039115f2a9","tradeNumber":"2020091722001306350504519291","currency":"USD","signType":"MD5"}]
+2020/09/21 18:11:47        alipay.go: 298:  [INFO] surl : [http://192.168.30.117:8081/billing/alipay/IVN7WZfjGD)8x2qH4z01R4I1BdwQdw]
+2020/09/21 18:11:47        alipay.go: 314:  [INFO] respBody : [<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /billing/alipay/IVN7WZfjGD)8x2qH4z01R4I1BdwQdw</pre>
+</body>
+</html>
+]

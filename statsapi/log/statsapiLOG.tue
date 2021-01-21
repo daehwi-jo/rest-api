@@ -1,0 +1,626 @@
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/17 11:46:53          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/17 11:46:53          main.go:  41:  [INFO] dbpt : 27017
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 11:46:53          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 11:46:53          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 11:46:53          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 11:46:53   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/17 11:46:53          main.go:  69:  [INFO] dbcn : device
+2020/11/17 11:46:53          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/17 11:46:53      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/17 11:46:53      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/17 11:46:53      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/17 11:46:53      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/17 11:47:03        device.go: 123:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/17 11:47:55        device.go: 123:  [INFO] resp : [{
+    "selectType" : "name",
+    "selectValue" : "agent"
+}]
+2020/11/17 11:49:03        device.go: 123:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endtDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:07:51        device.go: 123:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endtDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:08:01        device.go: 123:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endtDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:14:29        device.go:  34:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endtDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:14:29        device.go:  46:  [INFO] no value, so set default : [10]
+2020/11/17 12:14:29        device.go:  50:  [INFO] no value, so set default : [1]
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/17 12:15:26          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/17 12:15:26          main.go:  41:  [INFO] dbpt : 27017
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:15:26          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:15:26          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:15:26          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:26   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/17 12:15:26          main.go:  69:  [INFO] dbcn : device
+2020/11/17 12:15:26          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/17 12:15:26      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/17 12:15:26      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/17 12:15:26      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/17 12:15:26      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/17 12:15:26      cls_echo.go: 371:  [FAIL] WebServer Down port (7700)
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/17 12:15:34          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/17 12:15:34          main.go:  41:  [INFO] dbpt : 27017
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:15:34          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:15:34          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:15:34          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:15:34   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/17 12:15:34          main.go:  69:  [INFO] dbcn : device
+2020/11/17 12:15:34          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/17 12:15:34      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/17 12:15:34      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/17 12:15:34      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/17 12:15:34      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/17 12:15:36        device.go:  34:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endtDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:15:36        device.go:  46:  [INFO] no value, so set default : [10]
+2020/11/17 12:15:36        device.go:  50:  [INFO] no value, so set default : [1]
+2020/11/17 12:15:36        device.go:  83:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] publicIp:192.168.41.106]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/17 12:15:50        device.go:  34:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endtDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:15:50        device.go:  46:  [INFO] no value, so set default : [10]
+2020/11/17 12:15:50        device.go:  50:  [INFO] no value, so set default : [1]
+2020/11/17 12:15:50        device.go:  83:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] publicIp:192.168.41.106]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/17 12:16:09        device.go: 125:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endtDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:16:09        device.go: 163:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:] uuId:a6eb413a-64dd-45e4-b857-d75050252b65]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 12:16:57        device.go: 125:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:16:57        device.go: 163:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] uuId:a6eb413a-64dd-45e4-b857-d75050252b65]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/17 12:19:55          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/17 12:19:55          main.go:  41:  [INFO] dbpt : 27017
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:19:55          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:19:55          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:19:55          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:19:55   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/17 12:19:55          main.go:  69:  [INFO] dbcn : device
+2020/11/17 12:19:55          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/17 12:19:55      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/17 12:19:55      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/17 12:19:55      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/17 12:19:55      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/17 12:19:59        device.go: 125:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:19:59        device.go: 163:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] uuId:a6eb413a-64dd-45e4-b857-d75050252b65]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 12:20:15        device.go: 205:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:20:16        device.go: 256:  [ERR ] structure parsing error : [error decoding key memoryaverage: float64 can only be truncated to an integer type when truncation is enabled]
+2020/11/17 12:20:27        device.go: 205:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:20:28        device.go: 256:  [ERR ] structure parsing error : [error decoding key memoryaverage: float64 can only be truncated to an integer type when truncation is enabled]
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/17 12:21:35          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/17 12:21:35          main.go:  41:  [INFO] dbpt : 27017
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:21:35          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:21:35          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:21:35          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:35   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/17 12:21:35          main.go:  69:  [INFO] dbcn : device
+2020/11/17 12:21:35          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/17 12:21:35      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/17 12:21:35      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/17 12:21:35      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/17 12:21:35      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/17 12:21:35      cls_echo.go: 371:  [FAIL] WebServer Down port (7700)
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/17 12:21:46          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/17 12:21:46          main.go:  41:  [INFO] dbpt : 27017
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:21:46          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:21:46          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:21:46          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:21:46   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/17 12:21:46          main.go:  69:  [INFO] dbcn : device
+2020/11/17 12:21:46          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/17 12:21:46      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/17 12:21:46      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/17 12:21:46      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/17 12:21:46      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/17 12:21:48        device.go: 205:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:21:49        device.go: 256:  [ERR ] structure parsing error : [error decoding key memorymax: float64 can only be truncated to an integer type when truncation is enabled]
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/17 12:23:50          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/17 12:23:50          main.go:  41:  [INFO] dbpt : 27017
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:23:50          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:23:50          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:23:50          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:23:50   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/17 12:23:50          main.go:  69:  [INFO] dbcn : device
+2020/11/17 12:23:50          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/17 12:23:50      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/17 12:23:50      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/17 12:23:50      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/17 12:23:50      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/17 12:23:53        device.go: 205:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:32:01        device.go:  34:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":1}]
+2020/11/17 12:32:01        device.go:  46:  [INFO] no value, so set default : [10]
+2020/11/17 12:32:01        device.go:  83:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] publicIp:192.168.41.106]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/17 12:38:38          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/17 12:38:38          main.go:  41:  [INFO] dbpt : 27017
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:38:38          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:38:38          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 12:38:38          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 12:38:38   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/17 12:38:38          main.go:  69:  [INFO] dbcn : device
+2020/11/17 12:38:38          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/17 12:38:38      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/17 12:38:38      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/17 12:38:38      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/17 12:38:38      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/17 12:38:44        device.go: 236:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:38:59        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:38:59        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 12:39:17        device.go:  35:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 12:39:17        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/17 12:39:17        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/17 12:39:17        device.go: 114:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00]]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/17 12:44:23        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:44:23        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 12:44:23        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:44:55        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:44:55        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 12:44:55        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:54:55        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:54:55        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 12:54:55        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:55:43        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:55:43        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 12:55:43        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:58:31        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:58:31        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 12:58:31        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:58:45        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:58:45        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 12:58:45        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:05:14        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:05:14        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:05:14        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:07:00        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:07:00        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:07:00        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:10:43        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:10:43        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:10:43        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:10:55        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:10:55        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:10:55        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:12:15        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:12:15        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:12:15        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:13:20        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:13:20        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:13:20        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:23:42        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:23:42        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:23:42        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:24:06        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:24:06        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:24:06        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:24:25        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:24:25        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:24:25        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:24:54        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:24:54        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:24:54        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:25:44        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:25:44        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:25:44        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:27:38        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:27:38        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:27:38        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:28:05        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:28:05        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:28:05        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:28:53        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:28:53        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:28:53        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:30:44        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:30:44        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:30:44        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 14:44:11        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:44:11        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 14:44:11        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:01:03        device.go: 156:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:01:03        device.go: 194:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:01:03        device.go: 236:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/17 15:03:03          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/17 15:03:03          main.go:  41:  [INFO] dbpt : 27017
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 15:03:03          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 15:03:03          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 15:03:03          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:03:03   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/17 15:03:03          main.go:  69:  [INFO] dbcn : device
+2020/11/17 15:03:03          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/17 15:03:03      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/17 15:03:03      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/17 15:03:03      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/17 15:03:03      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/17 15:03:12        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:03:12        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:03:12        device.go: 246:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:03:14        device.go: 157:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 15:03:14        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00] uuId:a6eb413a-64dd-45e4-b857-d75050252b65]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:03:56        device.go: 246:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:03:56        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:03:56        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:04:08        device.go:  35:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 15:04:08        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/17 15:04:08        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/17 15:04:08        device.go: 114:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00]]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/17 15:04:09        device.go: 127:  [ERR ] structure parsing error : [results argument must be a pointer to a slice, but was a pointer to struct]
+2020/11/17 15:07:50        device.go: 246:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:07:50        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:07:50        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/17 15:08:03          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/17 15:08:03          main.go:  41:  [INFO] dbpt : 27017
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 15:08:03          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 15:08:03          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 15:08:03          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:08:03   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/17 15:08:03          main.go:  69:  [INFO] dbcn : device
+2020/11/17 15:08:03          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/17 15:08:03      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/17 15:08:03      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/17 15:08:03      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/17 15:08:03      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/17 15:08:07        device.go:  35:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 15:08:07        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/17 15:08:07        device.go:  51:  [INFO] no value, so set default : [1]
+2020/11/17 15:08:07        device.go: 114:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00]]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/17 15:09:12        device.go: 246:  [INFO] resp : [{
+    "startDate" : "2020-11-10 00:00:00",
+    "endDate" : "2020-11-11 00:00:00",
+    "uuid" : "a6eb413a-64dd-45e4-b857-d75050252b65"
+}]
+2020/11/17 15:11:20        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:11:20        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:11:20        device.go: 246:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:11:37        device.go: 246:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:13:53        device.go: 246:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:13:53        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:13:53        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (21) ipad  (5)
+2020/11/17 15:16:34          main.go:  34:  [INFO] dbip : 192.168.41.72
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (8) ipad  (0)
+2020/11/17 15:16:34          main.go:  41:  [INFO] dbpt : 27017
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 15:16:34          main.go:  48:  [INFO] dbid : hydraplus
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 15:16:34          main.go:  55:  [INFO] dbps : hydraplus
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (15) ipad  (7)
+2020/11/17 15:16:34          main.go:  62:  [INFO] dbn : hydraplus
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (580) ipad  (4)
+2020/11/17 15:16:34   ino_encrypt.go:  64:  (10) ipad  (2)
+2020/11/17 15:16:34          main.go:  69:  [INFO] dbcn : device
+2020/11/17 15:16:34          main.go:  79:  mongodb://192.168.41.72:27017
+2020/11/17 15:16:34      cls_echo.go: 538:  [INFO] new domain(localhost) port(7700) protocol(HTTP)
+2020/11/17 15:16:34      cls_echo.go: 357:  [INFO] port list cnt (1)
+2020/11/17 15:16:34      cls_echo.go: 312:  [INFO] ServeWebPort start
+2020/11/17 15:16:34      cls_echo.go: 344:  [INFO] RUN HTTP WebServer port(7700) start
+2020/11/17 15:16:39        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:16:54        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:16:54        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:16:54        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:41:46        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:41:46        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:41:46        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:48:47        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:48:47        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:48:47        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:50:57        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:50:57        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:50:57        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:52:23        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:52:23        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:52:23        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:52:23        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":1}]
+2020/11/17 15:52:23        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/17 15:52:23        device.go: 114:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00]]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/17 15:54:00        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:54:00        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:54:00        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:54:20        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:54:20        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:54:20        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:56:41        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:56:41        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:56:41        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:58:59        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:58:59        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 15:58:59        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:59:13        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:59:13        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 15:59:13        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 16:06:52        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:06:52        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 16:06:52        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:06:52        device.go:  35:  [INFO] resp : [{"selectType":"","selectValue":"","currentPage":1}]
+2020/11/17 16:06:52        device.go:  47:  [INFO] no value, so set default : [10]
+2020/11/17 16:06:52        device.go: 114:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-11 00:00:00]]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] deviceName:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] publicIp:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]] map[$sort:map[kst:%!s(int=-1)]] map[$skip:%!s(int=0)] map[$limit:%!s(int=10)]]]
+2020/11/17 16:07:13        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:07:13        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 16:07:13        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:54:04        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:54:04        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 16:54:04        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:55:39        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:55:39        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 16:55:39        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:56:53        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:56:53        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 16:56:53        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:59:18        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:59:18        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 16:59:18        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:59:24        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 16:59:24        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 16:59:24        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:08:32        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:08:32        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:08:32        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:20:21        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:20:21        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:20:21        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:21:58        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:21:58        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:21:58        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:28:54        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:28:54        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:28:54        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:29:18        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:29:18        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:29:18        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:29:45        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:29:45        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:29:45        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:30:43        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:30:43        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:30:43        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:31:24        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:31:24        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:31:24        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:33:38        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:33:38        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:33:38        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:33:53        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:33:53        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:33:53        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:34:08        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:34:08        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:34:08        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:45:49        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:45:49        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:45:49        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:47:53        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:47:53        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:47:53        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:48:25        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:48:25        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:48:25        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:52:21        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:52:21        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:52:21        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:52:44        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:52:44        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
+2020/11/17 17:52:44        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:55:43        device.go: 247:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:55:43        device.go: 157:  [INFO] resp : [{"startDate":"2020-11-10 00:00:00","endDate":"2020-11-10 24:00:00","uuid":"935e09f2-289a-4db1-8cd2-08a788bf9bd3"}]
+2020/11/17 17:55:43        device.go: 195:  [INFO] pipeline : [[map[$match:map[kst:map[$gte:2020-11-10 00:00:00 $lte:2020-11-10 24:00:00] uuId:935e09f2-289a-4db1-8cd2-08a788bf9bd3]] map[$sort:map[kst:%!s(int=-1)]] map[$group:map[_id:map[uuid:$uuId] cpu:map[$first:map[$toDouble:$cpu]] device_name:map[$first:$devName] memory:map[$first:map[$toDouble:$mem]] network:map[$first:map[$toDouble:$net]] public_ip:map[$first:$publicIp] storage:map[$first:map[$toDouble:$disk]] time:map[$first:$kst] uuid:map[$first:$uuId]]] map[$project:map[_id:%!s(int=0)]]]]
